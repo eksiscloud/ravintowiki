@@ -13,3 +13,9 @@ Itse suosin muotoilun tekemistä valmiiksi asti, pääsee vähemmällä. Mutta s
 ## .Ulysses-Group.plist ##
 
 Hakemistoissa on otsikon mukainen tiedosto. Älä poista tai muokkaa sitä. Se on tarpeellinen omassa työnkuvassa, jossa iPadin markdown-editori Ulysses on kytketty yhteen Githubia käyttävän Working Copy appin kanssa.
+
+## Keskustelu ##
+
+Repoon liittyvä keskustelu käydään vain ja ainoastaan Katiskan Meta-foorumilla wikin osiossa:
+
+https://meta.katiska.info/c/wiki/wikin-meta/30
