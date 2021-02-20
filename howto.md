@@ -9,3 +9,7 @@ Kun teksti on wikissä, niin se on syytä poistaa täältä. Toinen vaihtoehto o
 
 Github käyttää markdownia, sama mikä on esim. Katiskan Meta-foorumilla. MediaWiki taasen käyttää omaa versiotaan, eikä se ole tyypilliseen tapaan yhteensopiva muiden markdownien kanssa. Se tarkoittaa sitä, että Github ei osaa esittää wikiin muotoiltava tekstiä kuten se tulee näkyviin. Silti teksti kannattaa, suus täytyy, muotoilla kuten wikissä, jolloin se toimii kopioinnin jälkeen kuten pitääkin. Toinen vaihtoehto on jättää muotoilut kokonaan tekemättä ja hoitaa homma valmiiksi wikin puolella.
 Itse suosin muotoilun tekemistä valmiiksi asti, pääsee vähemmällä. Mutta se vaatii, että muista ulkoa muotoilumerkit. Oikeastaan tärkein muistettava, ihan luettavuuden kannalta, on muistaa merkitä viitteet tagien <ref> ja </ref> väliin.
+
+## .Ulysses-Group.plist ##
+
+Hakemistoissa on otsikon mukainen tiedosto. Älä poista tai muokkaa sitä. Se on tarpeellinen omassa työnkuvassa, jossa iPadin markdown-editori Ulysses on kytketty yhteen Githubia käyttävän Working Copy appin kanssa.
