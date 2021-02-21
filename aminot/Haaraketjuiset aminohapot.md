@@ -20,3 +20,14 @@ kannalta, kun lihaksen glykogeenivarastot ovat vähentyneet (Mero 1999). BCAA:n
 nauttiminen vähentää aminohappo tryptofaanin pääsyä aivoihin, jolloin väsymystä aiheuttavan serotoniinin synteesi vähenee (Newsholme ym. 1992). Toisaalta BCAA:n nauttiminen voi lisätä väsymystä lisäämällä veren ja lihaksen ammoniakin määrää. Näyttääkin yleisesti ottaen siltä, että BCAA:n nauttiminen ei vaikuta suorituskykyyn.
 (Hargreaves & Snow 2001; Wagenmakers 2001, 119-127.) BCAA:n nauttimisen on
 todettu vähentävän kehon rasvan määrää vähäenergisen dieetin aikana, erityisesti viskeraaliselta alueelta (Mourier, ym. 1997). Harjoitusta edeltävä proteiini ja aminohappoyhdistelmät kuten BCAA näyttävät vähentävän myös lihasten proteiinien hajotusta harjoituksen aikana (Miller ym. 2002). 
+
+
+Carli ym. (1992) tutkivat proteiini-hiilihydraattiyhdistelmän nauttimisen vaikutusta 90
+minuuttia ennen tunnin juoksua. Vaihtoehtoina olivat maitoproteiini (maito) ja tälle isokalorinen BCAA:n ja maitoproteiinin yhdistelmä (BCAA). BCAA-tilanteessa kasvuhormonin pitoisuus plasmassa nousi vähemmän harjoituksen aikana verrattuna maitoon.
+Tätä saattaa selittää BCAA:n inhiboiva vaikutus kasvuhormonin eritystä stimuloivan 
+72
+serotoniinin synteesiin (Chromiak & Antonio 2002). Testosteronin pitoisuus nousi harjoituksen aikaisen laskun jälkeen BCAA:lla toisin kuin maitoa nautittaessa. Plasman
+insuliini nousi lepoarvostaan 90 minuuttia juoman nauttimisen jälkeen vain tilanteessa
+BCAA. Tämä oli odotettava löydös, koska tiedetään, että ainakin leusiini ja isoleusiini
+stimuloivat insuliinin eritystä (Bohea ym. 1997) ja toisaalta maitoproteiinien vaikutus
+insuliinin pitoisuuksiin veressä on melko vähäinen (Dangin ym. 2003) 
