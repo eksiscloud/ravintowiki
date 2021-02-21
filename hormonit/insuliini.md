@@ -1,5 +1,24 @@
 ## Muokkaukseen ##
-**Lähteet aminoissa**
+**Lähteet aminoissa, paitsi wikipedia**
+
+Wikipedia:
+
+Insuliini on hormoni, joka säätelee elimistön sokeriaineenvaihduntaa[1]. Verenkiertoon vapautuva insuliini auttaa elimistöä säätelemään vireystilaa ja elopainoa[2]. Veren liiallinen insuliinipitoisuus johtaa kuitenkin siihen, ettei insuliinia hajottavaa entsyymiä (IDE) riitä enää aivojen beta-amyloidiplakkien riittävään hajotukseen.[3]
+
+Insuliinia käytetään diabeteksen hoitoon, ja sitä käytettiin aiemmin myös psykoosipotilaiden koomahoidossa[4].
+
+Insuliinia tuottavat haiman Langerhansin saarekkeissa sijaitsevat beetasolut.[1] Rakenteeltaan insuliini on monimutkainen aminohappoketju, jonka aminohappojärjestyksessä on eri eläinlajien välillä pieniä eroja. Insuliinin vastavaikuttajia ovat glukagoni ja adrenaliini.
+
+Insuliini ohjaa insuliinireseptoreiden säätelemää glukoosin kulkua rasva- ja lihassolujen solukalvon läpi. Insuliinitasojen ohjaamana insuliinireseptorit säätelevät glukoosin varastoitumista glykogeeniksi ja rasvahapoiksi, sekä mahdollistavat glukoosista syntyvien aineenvaihduntatuotteiden käyttöä sitruunahappokierrossa ja elektroninsiirtoketjussa. Insuliinin eritystä haimasta lisäävät pääasiassa pohjukaissuolen seinämästä verenkiertoon erittyvä GIP-hormoni, parasympaattinen hermosto sekä glukoosin määrä veressä.
+
+Paljon hiilihydraattia sisältävä ateria keskimäärin kymmenkertaistaa terveiden ja normaalivartaloisten ihmisten veren insuliinipitoisuuden. Eri ihmisten insuliiniherkkyydessä esiintyy kuitenkin niin suuria geneettisiä eroja, että veren insuliinipitoisuus kolminkertaistuu herkimmillä, mutta jopa 50-kertaistuu niillä, joiden elimistö reagoi vähiten herkästi insuliiniin.[5].
+
+Eri ruoka-aineet saavat elimistön tuottamaan eri määriä insuliinia. Insuliini-indeksiä käytetään kuvaamaan ruokailua seuraavan kahden tunnin aikana tapahtuvia veren insuliinipitoisuuden muutoksia. Siinä vertaillaan eri ruoka-aineista koostuvia joko 250 kilokalorin tai 1 000 kilojoulen suuruisia ruoka-annoksia. Insuliini-indeksi täydentää glykeemistä indeksiä, jossa ei huomioida sitä, että esimerkiksi rasvaton liha-annos nostaa veren insuliinpitoisuutta, vaikka se ei sisältäisi hiilihydraattia. Lisäksi joillain matalan glykeemisen indeksin ruoka-aineilla kuten hyvin vähärasvaisella maidolla saattaa olla korkea insuliini-indeksi.[6]
+
+Insuliinin heikentynyttä vaikutusta kudoksissa kutsutaan insuliiniresistenssiksi[7].
+
+--->
+
 
 Insuliini on peptidihormoni, molekyylipainoltaan 5808 Da, jota tuotetaan haiman Langerhansin saarekkeiden β-soluissa. Samojen saarekkeiden eri osissa eritetään myös glukagonia, somatostatiinia ja haiman polypeptidiä. Somatostatiini inhiboi parakriinisesti
 insuliinin ja glukagonin eritystä. Insuliinia muodostetaan sen prekursorista proinsuliinista poistamalla C-peptidi A- ja B-peptidien välistä. (Ganong 2001, 322; Guyton &
