@@ -1066,3 +1066,274 @@ Clinical Practise 5, 6, 231-237.
 Zawadzki, K.M., Yaspelkis III, B.B. & Ivy, J.L. 1992. Carbohydrate-protein complex
 increases the rate of muscle glycogen storage after exercise. Journal of Applied
 Physiology 72, 5, 1854-1859. 
+
+
+
+Adlercreutz H, Harkonen M, Kuoppasalmi K, Huhtaniemi I, Tikkanen H, Remes K,
+Dessypris A, Karvonen J 1986. Effect of training on plasma anabolic and catabolic steroid hormones and their response during physical exercise. Int J Sports
+Med 7(Suppl1):227–228
+Ahtiainen, J.P., Pakarinen, A., Kraemer, W.J. & Häkkinen, K. 2003. Acute hormonal
+and neuromuscular responses and recovery to forced vs. maximum repetitions
+multiple resistance exercises. International Journal of Sports Medicine, 24 (6),
+410-418
+Anthony JC, Anthony TG, Kimball SR, Vary TC, Jefferson LS. 2000. Orally administered leucine stimulates protein synthesis in skeletal muscle of postabsorptive
+rats in association with increased formation. J Nutr. 130:139–45.
+Baty, J.J., Hwang, H., Ding, Z., Bernard, J.R., Wang, B., Kwon, B., and Ivy, J.L. 2007.
+The effect of a carbohydrate and protein supplement on resistance exercise performance, hormonal response, and muscle damage. J. Strength Cond. Res. 21:
+321–329.
+Berardi, J.M., Price, T.B., Noreen, E.E., and Lemon, P.W.R. 2006. Postexercise muscle
+glycogen recovery enhanced with a carbohydrate- protein supplement. Med. Sci.
+Sports Exerc. 38(6):1106–1113.
+Bijut, P.E., Silver, W. & Gallagher, E.J. 2001. Reliability of the visual analog scale for
+measurement of acute pain. Acad Emerg Med. 8, 12, 1153-7
+Biolo, G., Maggi, S.P., Williams, B.D., Tipton, K.D. & Wolfe, R.R. 1995. Increased
+rates of muscle protein turnover and amino acid transport after resistance exercise in humans. American Journal of Physiology: Endocrinology and Metabolism
+31, E541-E520.
+Bird SP, Tarpenning KM, Marino FE: 2006. Liquid carbohydrate/essential amino acid
+ingestion during a short-term bout of resistance exercise suppresses myofibrillar
+protein degradation. Metabolism, 55:570-577.
+Blomstrand E, Hassme´n P, Ek S, Ekblom B, Newsholme EA. 1997. Influence of ingesting a solution of branched-chain amino acids on perceived exertion during exercise. Acta Physiol Scand.;159:41–9.
+Blomstrand E, Hassmen P, Ekblom B, Newsholme EA. 1991. Administration of
+branched-chain amino acids during sustained exercise - effects on performance 
+and on plasma concentration of some amino acids. Eur J Appl Physiol Occup
+Physiol.;63:83–8.
+Boirie, Y., Dangin, M., Gachon, P., Vasson, M-P., Maubois, J-L. & Beaufrère, L. 1997.
+Slow and fast dietary proteins differently modulate postprandial protein accretion. Proceedings of the National Academy of Sciences of the United States of
+America 23, 94, 26, 14930-14935.
+Bompa, T. O. 1999. Periodization: theory and methodology of training. 4th ed. Champaign (IL): Human Kinetics
+Børsheim E, Cree MG, Tipton KD, Elliott TA, Aarsland A, Wolfe RR. 2004. Effect of
+carbohydrate intake on net muscle protein synthesis during recovery from resistance exercise. J Appl Physiol.;96:674–8.
+Børsheim, E., Tipton, K.D., Wolf, S.E. & Wolfe, R.R. 2002. Essential amino acids and
+muscle protein recovery from resistance exercise. American Journal of Physiology: Endocrinology and Metabolism 283, E648-E657.
+Bucci L, Unlu L 2000. Proteins and amino acid supplements in exercise and sport. In
+Energy-Yielding Macronutrients and Energy Metabolism in Sports Nutrition Edited by: Driskell L, Wolinsky I. CRC Press: Boca Raton, FL:191-212.
+Buckley JD, Thomson RL, Coates AM, Howe PR, DeNichilo MO, Rowney MK 2010.
+Supplementation with a whey protein hydrolysate enhances recovery of muscle
+force-generating capacity following eccentric exercise. J Sci Med Sport, 13:178-
+181.
+Burd NA, Tang JE, Moore DR, Phillips SM 2009: Exercise training and protein metabolism: influences of contraction, protein intake, and sex-based differences. J Appl
+Physiol, 106:1692-1701.
+Burke L. 2004: Fasting and recovery from exercise. Br J Sports Med 44:502-508.
+Cairns SP, Knicker AJ, Thompson MW, and Sjogaard G 2005. Evaluation of models
+used to study neuromuscular fatigue. Exerc Sport Sci Rev 33: 9–16,
+Campbell, M.K. 1999. Biochemistry. 3rd edition. Saunders College Publishing. Harcourt
+Brace College Publishers. Printed in the United States of America.
+Cockburn E, Hayes PR, French DN, Stevenson E, St Clair Gibson A 2008: Acute milkbased protein-CHO supplementation attenuates exerciseinduced muscle damage.
+Appl Physiol Nutr Metab, 33:775-783.
+Connolly, D.A.J., Sayers, S.P. & Mchugh, M.P. 2003. Treatment and Prevention of Delayed Onset Muscle Soreness. Journal of Strength and Conditioning Research
+17(1): 197–208
+Cooke M, Rybalka E, Stathis C, Cribb PJ, Hayes A. 2010. Whey protein isolate attenuates strength decline after eccentrically-induced muscle damage in healthy individuals. Journal of the International Society of Sports Nutrition 2010, 7:30
+Cribb PJ, Williams AD, Stathis CG, Carey MF, Hayes A 2007: Effects of whey isolate,
+creatine, and resistance training on muscle hypertrophy. Medicine and Science in
+Sports and Exercise, 39:298-307
+Delecluse, C.H. 1997. Infuence of strength training on sprint running performance. Sport
+Medicine, 24, 147- 156.
+Di Pasquale, M. 1997. Amino Acids and Proteins for the Athlete. The Anabolic
+Edge.Library of Congress Catlogining-in-Publication Data. Printed in the United
+States of America.
+Durnin J, Womersley Y. 1967. Body fat assessed from total body density and its estimationfrom skinfold thickness: measurement on 481 men and women aged from16
+to 72 years, British Journal of Nutrition, 32, 77-97.
+Etheridge T, Philp A, Watt PW 2008: A single protein meal increases recovery of muscle function following an acute eccentric exercise bout. Appl Physiol Nutr
+Metab, 33:483-488.
+Ferguson-Stegall, McCleave E., Ding Z, Doerner P, Liu Y, Wang B, Healy M, Kleinert
+M, Dessard B, Lassiter D, Kammer L, and Ivy J. 2011 Aerobic Exercise Training
+Adaptations Are Increased by Postexercise Carbohydrate-Protein Supplementation. Journal of Nutrition and Metabolism Volume 2011, Article ID 623182, 11
+pages doi:10.1155/2011/623182
+Friden, J. & Lieber, R. 1992. Structural and mechanical basis of exercise induced muscle
+injury. Medicine and Science in Sports and Exercise, 24: 521-530.
+Ganong, W.F. 2001. Review of Medical Physiology. McGraw-Hill, New York.
+Gibala, M.J., MacDougall, J.D., Tarnopolsky, M.A., Stauber, W.T. & Elorriaga, A.
+1995. Changes in human skeletal muscle ultrastructure and force production after
+acute resistance exercise. J Appl Physiol 78, 2, 702 - 708.
+Glynn E.L. Fry, C.S, Drummond, M., Timmerman, K., Dhanani, S., Volpi, E. and Rasmussen B.B. 2010 Excess Leucine Intake Enhances Muscle Anabolic Signaling
+but Not Net Protein. Anabolism in Young Men and Women J. Nutr. 140:1970-76 
+Greenhaff, P.L., Gleeson, M. & Maughan, R.J. 1988. The effects of diet on muscle pH
+and metabolism during high intensity exercise. European Journal of Applied
+Physiology 57, 531-539.
+Groff, J.L. & Gropper, S.S. 2000. Advanced Nutrition and Human Metabolism.
+Wadsworth, USA.
+Guyton, A.C. & Hall, J.E. 2006. Textbook of Medical Physiology. 11th edition. Library
+of Congress Catlogining-in-Publication Data. Printed in the United States of
+America
+Ha, E. & Zemel, M.B. 2003. Functional properties of whey, whey components, and essential amino acids: mechanisms underlying health benefits for active people
+(Review). Journal of Nutritional Biochemistry 14, 251-258.
+Hall, W.L., Millward, D.J., Long, S.J. & Morgan, L.M. 2003. Casein and whey exert different effects on plasma amino acid profiles, gastrointestinal hormone secretion
+and appetite. British Journal of Nutrition 89, 239-248.
+Hargreaves, M. & Snow, R. 2001. Amino acids and endurance exercise. International
+Journal of Sport Nutrition and Exercise Metabolism 11, 133-145.
+Hartman JW, Tang JE, Wilkinson SB, Tarnopolsky MA, Lawrence RL,Fullerton AV,
+Phillips SM. 2007. Consumption of fat-free fluid milk after resistance exercise
+promotes greater lean mass accretion than does consumption of soy or carbohydrate in young, novice, male weightlifters. Am J Clin Nutr, 86:373-381.
+Heikkinen A, Alaranta A, Helenius I, Vasankari T. 2011 Use of dietary supplements in
+Olympic athletes is decreasing: a follow-up study between 2002 and 2009. Heikkinen et al. Journal of the International Society of Sports Nutrition 2011, 8:1
+Hirvonen, J., Rehunen, S., Rusko, H. & Härkönen, M. 1987. Breakdown of high-energy
+phosphate compounds and lactate accumulation during short supramaximal exercise. European journal of applied physiology, 56, 253 – 259.
+Hiscock, N. & Pedersen, B.K. 2002. Exercise-induced immunodepression – plasma glutamine is not the link. Journal of Applied Physiology, 93, 813-822.
+Hoffman JR, Ratamess NA, Tranchina CP, Rashti SL, Kang J, Faigenbaum AD 2010:
+Effect of a proprietary protein supplement on recovery indices following resistance exercise in strength/power athletes. Amino Acids, 38:771-778.
+Hoffman JR, Ratamess NA, Kang J, Falvo J. Faigenbaum A. 2007. Effects of protein
+supplementation on muscular performance and resting hormonal changes in college football players. Journal of Sports Science and Medicine 6, 85-92
+Hoffman, J.R. & Falvo, M.J. 2004. Protein - which is best? Journal of Sport Science and
+Medicine 3, 3, 118-130.
+Holecek, M. 2002. Relation Between Glutamine, Branched-Chain Amino Acids, and
+Protein Metabolism. Nutrition, 18, 130-133.
+Hulmi, J.J., Lockwood, C., Stout, J.S., 2010 Effect of protein/essential amino acids and
+resistance training on skeletal muscle hypertrophy: A case for whey protein. Review. Nutrition and Metabolism (London) 17;7: 51
+Hulmi JJ, Kovanen V, Selänne H, Kraemer WJ, Häkkinen K, Mero AA 2009. Acute and
+long-term effects of resistance exercise with or without protein ingestion on
+muscle hypertrophy and gene expression. Amino Acids 37:297–308
+Hulmi, J.J, Ahtiainen, J., Kaasalainen, T., Pöllänen E, Häkkinen, K., Alen, M., Selänne,
+H., Kovanen, V., Mero A.A. 2007. Post-exercise myostatin and activin IIb
+mRNA levels: effects of strength training. Medicine and Science in Sport and
+Exercise 2007 Feb;39(2):289-297
+Hulmi, J., Volek, J., Selänne, H. & Mero, A. 2005. Protein ingestion prior to strength
+exercise affects blood hormones and metabolism. Medicine & Science in Sports
+& Exercise 37, 19901997
+Hulmi, J.J. 2004. Voimaharjoitusta edeltävän hera-kaseinaattiyhdistelmän vaikutus seerumin hormoneihin ja energia-aineenvaihduntaan. Liikuntafysiologian Pro gradu
+-tutkielma. Jyväskylän yliopisto. Liikuntabiologian laitos. 150 s
+Häkkinen K, Pakarinen A, Alen M, Kauhanen H, Komi P 1988a. Neuromuscular and
+hormonal responses in elite athletes to two successive strength training sessions
+in one day. Eur J Appl Physiol 57:133-139.
+Häkkinen, K., Pakarinen, A., A16n, M., Kauhanen, H. & Korni 1988b. Daily hormonal
+and neuromuscular responses to intensive strength training in 1 week. International Journal of Sports Medicine 9, 422 - 428.
+Häkkinen K. 1990. Voimaharjoittelun perusteet, vaikutusmekanismit, harjoitusmenetelmät ja ohjelmointi, Gummerus kirjapaino OY, Jyväskylä, 1990
+Häkkinen K, Myllyla E 1990. Acute effects of muscle fatigue and recovery on force
+production and relaxation in endurance, power and strength athletes. J Sports
+Med Phys Fitness 30:5-12
+Häkkinen K, Pakarinen A 1993. Acute hormonal responses to two different fatiguing
+heavyresistanceprotocols in male athletes. J Appl Physiol Feb;74(2):882-7
+Häkkinen K 1994. Neuromuscular Fatigue in Males and Females during Strenous Heavy
+Resistance Loading, Electromyography and Clinical Neurophysiology, 34:205-
+214.
+Katsanos CS, Kobayashi H, Sheffield-Moore M, Aarsland A, Wolfe RR 2006.A high
+proportion of leucine is required for optimal stimulation of the rate of muscle
+protein synthesis by essential amino acids in the elderly. Am J Physiol Endocrinol Metab.;291:E381–7.
+Keul J, Doll E, Keppler D. Muskelstoffwechsel, Barth Verlag, Munchen, 1969
+Kingsbury, K.J., Kay, L. & Hjelm, M. 1998. Contrasting plasma free amino acid patterns in elite athletes: association with fatigue and infection. British Journal ofSports Medicine, 32, 25-33.
+Kirby T, Triplett T, Haines T, Skinner J, Fairbrother K and McBride J 2011. Effect of
+leucine supplementation on indices of muscle damage following drop jumps and
+resistance exercise. Amino Acids DOI 10.1007/s00726-011-0928-9.
+Komi P & Viitasalo J 1977. Changes in motor unit activity and metabolism in human
+skeletal muscle during and after repeated eccentric and concentric contractions.
+Acta Physiol Scand 100:246-254.
+Koopman R, Pennings B, Zorenc AH, van Loon LJ: 2007, Protein ingestion further
+augments S6K1 phosphorylation in skeletal muscle following resistance type exercise in males. J Nutr 137:1880-1886.
+Kraemer W.J. & Ratamess N.A. 2005. Hormonal Responses and Adaptations to Resistance Exercise and Training Sports Med; 35 (4): 339-361
+Kraemer WJ, Volek JS, Bush JA, Putukian M, Sebastianelli WJ 1998. Hormonal responses to consecutive days of heavy-resistance exercise with or without nutritional supplementation. J Appl Physiol 85:1544–1555
+Kumar V, Atherton P, Smith K, Rennie MJ 2009. Human muscle protein synthesis and
+breakdown during and after exercise.J Appl Physiol 106(6):2026–2039.
+Layman, D.K. 2002. Role of leucine in protein metabolism during exercise and recovery. Canadian Journal of Applied Physiology 27, 6, 646-662.
+Lemon, P.W.R. 2001. Effects of exercise on protein metabolism. Teoksessa Maughan,
+R.J. (toim.) Nutrition in Sport: the Encyclopedia of Sports Medicine. Blackwell
+Sciences Ltd, 133-152. 
+Linnamo V, Häkkinen K, Komi PV, 1998. Neuromuscular fatigue and recovery in maximum strength loading versus explosive strength loading. European Journal of
+Applied Physiology 77(1– 2):176–81
+Linnamo, V, Pakarinen A, Komi PV, Kraemer WJ, Häkkinen K. 2005. Acute hormonal
+responses to submaximal and maximal heavy resistance and explosive exercises
+in men and women. Joumal of Strength and Conditioning Research 19(3), 566-
+571
+Manninen, A. 2004. Protein hydrolysates in sports and exercise: a brief review. Journal
+of Sport Science and Medicine 3, 60-63.
+Maughan, R.J. & Burke, L.M. 2002. Sports nutrition. Blackwell Science Ltd.
+McArdle, W.D., Katch, F.I. & Katch, V.L. 2010. Exercise Physiology, Energy, Nutrition, and Human Performance. 7th edition. Library of Congress Cataloging-inPublication Data. Printed in the United States of America,
+Mero A, Leikas A, Knuutinen J, Hulmi J, Kovanen V. 2009. Effect of strength training
+session on plasma amino acid concentration following oral ingestion of leucine,
+BCAAs or glutamine in men. Eur J Appl Physiol 105:215–223.
+Mero A, Leikas A, Rinkinen N et al 2008. Effect of strength training session on plasma
+amino acid concentration following oral ingestion of arginine or taurine in men.
+Amino Acids 35:99–106.
+Mero, A 1999. Leucine supplementation and intensive training. Sport Med 27, 347-358.
+Mero A., Pitkänen H, Oja S., Komi P V., Pöntinen P J., and Takala T 1997. Leucine
+supplementation and serum amino acids, testosterone, cortisol and growth hormone in male power athletes during training. Journal of Sports Medicine and
+Physical Fitness, 37: 137-145.
+Mero, A., Peltola E. & Saarela J. 1987. Nopeus- ja nopeuskestävyysharjoittelu. Jyväskylä. Gummerus Oy. Mero Oy.
+Miller SL, Tipton KD, Chinkes DL, Wolf SE, Wolfe RR. 2003. Independent and combined effects of amino acids and glucose after resistance exercise. Med Sci
+Sports Exerc.;35:449–55.
+Mittleman KD, Ricci MR, Bailey SP 1998. Branched-chain amino acids prolong exercise during heat stress in men and women. Med Sci Sports Exerc.;30:83–91.
+Moore DR, Tang JE, Burd NA, Rerecich T, Tarnopolsky MA, Phillips SM 2009. Differential stimulation of myofibrillar and sarcoplasmic protein synthesis with protein
+ingestion at rest and after resistance exercise. J Physiol, 587:897-904
+Morifuji M, Ishizaka M, Baba S, Fukuda K, Matsumoto H, Koga J, Kanegae M, Higuchi
+M 2010. Comparison of Different Sources and Degrees of Hydrolysis of Dietary
+protein: Effect of Plasma Amino Acids, Dipeptides, and Insulin Responses in
+Human Subjects. Journal of Agriculture and Food Chemistry, 58:8788-8797
+Mutanen, M. & Voutilainen, E. 1999. Energiaravintoaineet, ravintokuitu ja alkoholi. Teoksessa Aro, A., Mutanen, M. & Uusitupa, M. (toim.) Ravitsemustiede. Duedecim. Hämeenlinna: Karisto Oy, 126-130, 132, 133.
+Nicol, V., Avela, J. & Komi P.V. 2006. The Stretch-Shortening Cycle: A Model to
+Study Naturally Occurring Neuromuscular Fatigue. Sports Med 36 (11): 977-999
+Nosaka K, Sacco P, Mawatari K 2006: Effects of amino acid supplementation on muscle
+soreness and damage. Int J Sport Nutr Exerc Metab, 16:620-635.
+Phillips, SM, Moore DR, Tang J 2007. A critical examination of dietary protein requirements, benefits, and excesses in athletes.Int J Sports Nutr Exer
+Metab.;17:S58–S76.
+Phillips, S.M., Tipton, K.D., Aarsland, A., Wolf, S.E. & Wolfe, R.R. 1997. Mixed muscle protein synthesis and breakdown after resistance exercise in humans. American Journal of Physiology: Endocrinology and Metabolism 36, E99-E107.
+Phillips, S.M., Tipton, K.D., Ferrando, A.A. & Wolfe, R.R. 1999. Resistance training
+reduces the acute exercise-induced increase in muscle protein turnover. American Journal of Physiology: Endocrinology and Metabolism 39, E118-E124.
+Pitkänen, H., Mero, A., Oja, S.S., Komi, P.V., Pöntinen, P.J., Saransaari, P. & Takala, T.
+2002. Serum amino acid responses to three different exercise sessions in male
+power athletes. Journal of Sports Medicine and Physical Fitness, 42(4), 472-480.
+Rasmussen, B.B. & Phillips, S.M. 2003. Contractile and nutritional regulation of human
+muscle growth. Exercise and Sport Sciences Reviews 31, 3, 127-131.
+Ratamess NA, Kraemer WJ, Volek JS, et al., 2003. The effects of amino acid supplementation on muscular performance during resistance training overreaching. J.
+Strength Cond. Res.; 17:250-258
+Rennie MJ, Tipton KD 2000. Protein and amino acid metabolism during and after exercise and the effects of nutrition. Annu Rev Nutr, 20:457-483
+Rennie, M.J. 2001. Control of muscle protein synthesis as a result of contractile activity
+and amino acid availability: implications for protein requirements. International
+Journal of Sport Nutrition and Exercise Metabolism, 11, S170-S176.
+Roberts S, Stokes,K, Trewartha S, Hogben P, Doyle J & Thompson D. 2011: Effect of
+combined carbohydrate-protein ingestion on markers of recovery after simulated
+rugby union match-play, Journal of Sports Sciences, 29:12, 1253-1262
+Roy, B.D., Tarnopolsky, M.A., MacDougall, J.D., Fowles, J. & Yarasheski, K.E. 1997.
+Effect of glucose supplement timing on protein metabolism after resistance training. Journal of Applied Physiology 82, 1882-1888.
+Sharp, C. & Pearson, D. 2010. Amino acid supplements and recovery from highintensity resistance training. The Journal of Strength & Conditioning Research
+24, 1125-1130.
+Shimomura, Y., Inaguma, A., Watanabe, S., Yamamoto, Y., Muramatsu, Y., Bajotto, G.
+et al. 2010. Branched-chain amino acid supplementation before squat exercise
+and delayed onset muscle soreness. International Journal of Sport Nutrition and
+Exercise Metabolism, 20, 236–244
+Slater G & Phillips S.M. 2011: Nutrition guidelines for strength sports: Sprinting,
+weightlifting, throwing events, and bodybuilding, Journal of Sports Sciences,
+29:sup1, S67-S77.
+Stock MS, Young JC, Golding LA, Kruskall LJ, Tandy RD, Conway-Klaassen JM, Beck
+TW 2010. The effects of adding leucine to pre and postexercise carbohydrate
+beverages on acute muscle recovery from resistance training. J Strength Cond
+Res 24(8):2211–2219.
+Tang JE, Moore DR, Kujbida GW, Tarnopolsky MA, Phillips SM 2009: Ingestion of
+whey hydrolysate, casein, or soy protein isolate: effects on mixed muscle protein
+synthesis at rest and following resistance exercise in young men. J Appl Physiol,
+107:987-992.
+Tarnopolsky, M.A., Atkinson, S.A., MacDougall, J.D., Chesley, A., Phillips, S. &
+Schwarcz. 1992. Evaluation of protein requirements for trained strength athletes.
+Journal of Applied Physiology 73, 5, 1986-1995.
+Thorstensson A, Karlsson J. 1976. Fatiguability and fibre composition of human skeletal
+muscle. Acta Physiol Scand;98:318–22.
+Tipton, K.D. & Wolfe, R.R. 2004. Protein and amino acids for athletes. Journal of Sport
+Sciences 22, 65-79.
+Tipton, K.D. & Wolfe, R.R. 2001. Exercise, protein metabolism, and muscle growth. International Journal of Sport Nutrition and Exercise Metabolism 11, 109-132. 
+Todd, K.H, Funk K.G, Funk J.P, & Bonacci, R.1996. Clinical significance of reported
+changes in pain severity. Ann Emerg Med 27, 485 - 489.
+van Loon, L.J.C., Saris, W.H.M., Verhagen, H. & Wagenmakers, A.J.M. 2000. Plasma
+insulin responses after ingestion of different amino acid or protein mixtures with
+carbohydrate. American Journal of Clinical Nutrition 72, 96-105.
+Wagenmakers, A.J.M. 2001. Amino acid metabolism in exercise. Teoksessa Maughan,
+R.J. (toim.) Nutrition in Sport: the Encyclopedia of Sports Medicine. Blackwell
+Sciences Ltd, 119-132.
+Wagenmakers, A.J.M. 1999. Tracers to investigate protein and amino acid metabolism
+in human subjects. Proceedings of the Nutrition Society 58, 4, 987-1000.
+Warren G.L., Lowe D.A. & Armstrong, R.B. 1999. Measurement tools used in the study
+of eccentric contraction-induced injury. Sports Med 27, 1, 43 - 48. Review.
+Welle, S., Bhatt, K. & Thornton, C.A. 1999. Stimulation of myofibrillar synthesis by exercise is mediated by more efficient translation of mRNA. Journal of Applied
+Physiology 86, 4, 1220-1225.
+Weyand, P.G., Sternlight, D.B., Bellizzi, M.J. & Wright, S. 2000. Faster top running
+speeds are achieved with greater ground forces not more rapid leg movements.
+Journal of Applied Physiology 89, 1991-1999.
+Williams, P. B. Raven, D. L. Fogt, and J. L. Ivy, 2003. Effects of recovery beverages on
+glycogen restoration and endurance exercise performance. Journal of Strength
+and Conditioning Research, vol. 17, no. 1, pp. 12–19, 2003.
+Vingren, J., Kraemer, W., Ratamess, N., Anderson, J., Volek, J. & Maresh, C. 2010. Testosterone physiology in resistance exercise and training. Sports Medicine 40, 1037-
+1053.
+Witard OC, Jackman SR, Kies AK, Jeukendrup AE, Tipton KD 2011. Effect of increased dietary protein on tolerance to intensified training. Med Sci Sports Exerc.
+Apr;43(4):598-607
+Volek JS, Kraemer WJ, Bush JA, Incledon T, Boetes M. 1997. Testosterone and cortisol
+in relationship to dietary nutrients and resistance exercise. J Appl Physiol.
+Jan;82(1):49-54.
+Vollestad. N. 1997. Measurement of human muscle fatigue. Journal of Neuroscience.
+Methods 74: 219-227.
+Zatsiorsky, V. 1995. Science and practice of strength training. Human Kinetics, USA.
