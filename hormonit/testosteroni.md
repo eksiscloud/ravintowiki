@@ -78,3 +78,22 @@ intrasellulaariseen kalsiumiin vaikuttaminen saattaa vaikuttaa luurankolihasten 
 aromatisoitumalla estradioliksi (Weissberger & Ho 1993). Testosteronin lepopitoisuuksilla on havaittu esimerkiksi yhteys suurempaan voiman kasvuun tai voimantuottoon
 joissain (Ahtiainen ym. 2003b; Häkkinen ym. 1990), mutta ei kaikissa tutkimuksissa
 (Ahtiainen ym. 2004).
+
+
+
+Suurimmassa osassa tutkimuksista voimaharjoitus on lisännyt akuutisti veren kokonaistestosteronin pitoisuuksia (Ahtiainen ym. 2004; Ahtiainen ym. 2003a; Kraemer ym. 1998a; Kraemer ym.
+1998b; Kraemer ym. 1990; Häkkinen ym. 1988b). Vapaan testosteronin pitoisuuksissa
+on vastaavasti yleensä myös havaittu nousua välittömästi hypertrofistyyppisen voimaharjoituksen jälkeen (Ahtiainen ym. 2004; Ahtiainen ym. 2003a; Kraemer ym. 1998a;
+Häkkinen & Pakarinen 1993; Häkkinen ym. 1988b). Kokonaistestosteronin ja vapaan 
+testosteronin pitoisuudet ovat kuitenkin yleensä laskeneet vähintäänkin lepotasoon 30
+minuutin kuluessa voimaharjoituksen jälkeen (kuvio 7) (Ahtiainen ym. 2003a; Kraemer
+ym. 1998b; Chandler ym. 1994), mutta on myös havaittu myöhemmin uusia nousuja
+(Kraemer ym. 1990) ja pitemmällä aikavälillä myös laskua (Nindl ym. 2001c). Selvää
+johdonmukaista näyttöä ei ole, mutta testosteronin nousu on yleensä suurinta, kun voimaharjoituksessa sarjat ovat pitkiä (Smilios ym. 2003; Häkkinen & Pakarinen 1993) ja
+palautusten kestot ovat lyhyet (Kraemer ym. 1991; Kraemer ym. 1990). Näyttää siltä,
+että LH ei ole voimaharjoituksen yhteydessä stimuloiva tekijä testosteronin lisääntyneisiin pitoisuuksiin (Raastad ym. 2000; Chandler ym. 1994; Häkkinen ym. 1988a), mutta
+on havaittu, että testosteronipitoisuuksien lasku 13 tunnin aikana pitkäkestoisen voimaharjoituksen jälkeen näytti olevan yhteydessä laskeneeseen LH:n pitoisuuteen (Nindl
+ym. 2001c). Muita mahdollisia voimaharjoituksen aikaisen testosteronin pitoisuuden lisääjiä ovat mm. laktaatin ja kivesten verenkierron lisääntyminen, hemokonsentroituminen, testosteronin verenkierrosta poistuman vähentyminen (Ahtiainen ym. 2003a;
+Raastad ym. 2000; Kraemer ym. 1998b) tai sympaattisen aktiivisuuden lisääntyminen,
+jonka yhteydestä testosteroniin ei kuitenkaan ole vahvaa näyttöä voimaharjoituksen
+yhteydessä (Pullinen ym. 2002; Pullinen ym. 1998). 
