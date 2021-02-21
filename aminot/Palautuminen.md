@@ -102,3 +102,13 @@ tiryhmän suorituskyky isometrisessä maksimivoimatestissä palautui merkitsevä
 
 Onkin mahdollista, että koska proteiinin laadulla on tutkitusti merkitystä kuormituksen
 proteiinin synteesissä ja hajotuksessa (mm. Tang ym. 2008), on proteiinin laadulla merkitystä myös eri kuormituksista palautumiseen. (Hulmi 2010).
+
+
+
+proteiinilisä vähensi kovan voimaharjoituksen aiheuttamaa akuuttia räjähtävän voimantuottokyvyn laskua teholajien urheilijoilla. Lisäksi
+proteiiniryhmän laktaattipitoisuus palautui plaseboryhmää nopeammin perustasolle voimaharjoituksen jälkeen. Huomioitavaa oli myös se, että palautumistuntemuksissa ei ollut
+eroja ryhmien välisessä vertailussa, mutta kun tuntemuksia verrattiin alkumittausarvoon,
+proteiiniryhmän koehenkilöt tunsivat täysin palautuneensa vuorokautta plaseboryhmää
+nopeammin. Sen sijaan lihasvaurio- ja lihasarkuusmuuttujiin proteiinilisällä ei tässä tutkimuksessa ollut vaikutusta. 
+
+
