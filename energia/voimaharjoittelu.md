@@ -41,3 +41,18 @@ antilipolyyttinen insuliini on myös usein alempana kuin lepotilassa (Thyfault y
 Smilios ym. 2003; Pullinen ym. 1998; Kraemer ym. 1998b). 
 
 
+
+Paastotilassa tehdyn voimaharjoituksen aikana veren vapaiden rasvahappojen (FFA)
+pitoisuudet pysyvät samana tai jopa nousevat (Essén-Gustavsson & Tesch 1990), mutta
+jos hiilihydraattia nautitaan ennen voimaharjoitusta ja/tai sen aikana, niin FFA-pitoisuus
+laskee (Haff ym. 2000). Vastaavasti voimaharjoituksen aikana veren glukoosi yleensä
+nousee hiilihydraattia nautittaessa (Haff ym. 2000) tai joissain tapauksissa myös pysyy
+samana (Thyfault ym. 2004). Veren glukoosin nousu ja FFA:n lasku siirtävät energiantuoton enemmän hiilihydraattien suuntaan, koska hiilihydraattien saatavuus näyttää vähentävän tarvetta käyttää rasvoja energiaksi (Conley & Stone 1996). Lisäksi voimaharjoitusta edeltävän ja aikana nautitun hiilihydraatin on osoitettu vähentävän lihasglykogeenia vähemmän harjoituksen aikana verrattuna harjoitukseen paastotilassa (Haff ym.
+2000). Tähän on selityksenä vähäisempi lihasglykogeenin hajotus ja/tai lisääntynyt lihasglykogeenin synteesi. Osassa tutkimuksista voimaharjoitusta edeltävä ja/tai aikainen
+hiilihydraatin nauttiminen on parantanut suorituskykyä voimaharjoituksen aikana ja
+osassa ei. Tutkijoiden mukaan näyttää siltä, että jos sekä voimaharjoituksen volyymi
+että käytetyt lihasryhmät ovat suuria ja sitä kautta myös lihasglykogeenin vähentyminen
+on suurta, niin hiilihydraatin nauttimisesta voi olla hyötyä suorituskykyyn. (Haff ym.
+2003.) Hiilihydraattien nauttiminen väärin ajoitettuna ennen harjoitusta aiheuttaa kuitenkin joillain ihmisillä ylisuuren hiilihydraattien hapetuksen ja veren glukoosin laskun
+harjoituksen alussa sekä väsymyksen tunteen (Maughan & Burke 2002, 79; Koivisto
+ym. 1981). 
