@@ -31,3 +31,15 @@ insuliini nousi lepoarvostaan 90 minuuttia juoman nauttimisen jälkeen vain tila
 BCAA. Tämä oli odotettava löydös, koska tiedetään, että ainakin leusiini ja isoleusiini
 stimuloivat insuliinin eritystä (Bohea ym. 1997) ja toisaalta maitoproteiinien vaikutus
 insuliinin pitoisuuksiin veressä on melko vähäinen (Dangin ym. 2003) 
+
+
+
+Yksi mahdollinen selitys proteiinilisän positiiviseen vaikutukseen väsymisen vähentämisessä voi olla heraproteiinin runsaasti sisältämien haaraketjuisten aminohappojen vaikutus sentraaliseen väsymykseen (Blomstrand 2006). Tutkimukset ovat osoittaneet, että
+etenkin erittäin kovissa kestävyyskuormituksissa haaraketjuisten aminohappojen saanti
+voi vähentää kuormituksen aiheuttamaa sentraalista väsymystä (Mittleman ym. 1998,
+Blomstrand 1991) ja myös väsymisen tunnetta (Blomstrand 1997). Teorian mukaan haaraketjuisten aminohappojen nauttiminen kuormituksen yhteydessä lisää haaraketjuisten
+aminohappojen pitoisuutta plasmassa. Tämä vähentää samalla tryptofaanin pitoisuutta
+plasmassa ja sen vaikutusta aivoihin, joka vähentää serotoniinin eli 5-hydroksitryptamiinin (5-HT) synteesiä. Serotoniinin synteesin hidastuminen vähentää sentraalista
+väsymistä kuormituksessa (Blomstrand 2006). Haaraketjuisten aminohappojen ja sentraalisen väsymisen vähentymisen yhteyttä ei ole tiettävästi kuitenkaan tutkittu voimakuormitustutkimuksissa. Witardin ym. (2011) kolmen viikon kestävyysharjoittelututkimuksessa tutkimusasetelma oli proteiininsaannin osalta samankaltainen (proteiiniryhmä
+3,0g / painokilo / vrk vs plaseboryhmä 1,5g / painokilo / vrk) kuin tässä tutkimuksessa.
+Witardin tutkimuksessa proteiininsaannin kaksinkertaistamisella oli positiivisia vaikutuksia kestävyyssuorituskyvyn ylläpitoon ja myös väsymistuntemuksiin kovan harjoitusjakson aikana.
