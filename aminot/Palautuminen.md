@@ -58,3 +58,36 @@ ei saada, jonka jälkeen insuliiniherkkyys taas lisääntyy jopa suuremmaksi kui
 harjoitusta kuuden tunnin sisällä harjoituksen jälkeen (Ivy & Portman 2004, 82-83).
 Tilanne voi olla hieman erilainen lihasvaurioita aiheuttavan harjoituksen jälkeen, jolloin
 lihaksissa on havaittu väliaikainen insuliiniresistenssi ainakin vielä 24 tuntia harjoituksen jälkeen (Del Aguila ym. 2000). Ravinnon nauttiminen harjoituksen jälkeen viivästyttää mahdollisesti viiveellä harjoituksen jälkeen tapahtuvaa insuliiniherkkyyden laskua (Ivy 2004). 
+
+
+
+Proteiinivalmisteita on yleisesti kolmessa muodossa: kokonaiset proteiinit, proteiinihydrolysaatit ja vapaat aminohapot. Kokonaisia proteiinivalmisteita ovat esim. maidon kaseiini ja myös normaali ruoka sisältää kokonaisia proteiineja. Proteiinihydrolysaatit sisältävät tri- ja dipeptideja ja vapaita aminohappoja. Proteiinihydrolysaattien etu on niiden 
+imeytymisnopeudessa, joka on suurempi kuin kokonaisissa proteiineissa tai yksittäisissä
+aminohapoissa. (Manninen 2004) Erilaiset hydrolysaatit kasvattavat myös insuliinipitoisuutta tehokkaasti yhdessä hiilihydraattien kanssa. (van Loon ym. 2000) Proteiinivalmisteita on markkinoilla useissa eri muodoissa. Suosituimmat ovat valmiit juomat, proteiinijauheet ja -patukat sekä kapselit. Proteiinivalmisteissa on eroja myös valmistustekniikoiden välillä, joka vaikuttaa mm. valmisteiden proteiinipitoisuuteen ja proteiinien säilyvyyteen sekä suojaravintoaineiden ja rasvapitoisuuteen. (Hoffmann & Falvo 2004).
+Proteiinilisän nautittuna harjoitusten yhteydessä on useissa tutkimuksissa osoitettu lisäävän proteiinisynteesiä ja mahdollisesti myös vähentävän proteiinien hajotusta voimaharjoituksen jälkeen (mm. Miller ym. 2003, Bird ym. 2006, Hartmann 2007) ja pitkällä aikavälillä tehostavan lihasten hypertrofiaa voimaharjoittelun vaikutuksesta (mm. Cribb
+ym. 2007, Hartmann ym. 2007, Hulmi ym. 2009) Lisäksi kestävyyskuormituksen yhteydessä proteiinilisällä on osoitettu olevan suotuisa vaikutus palautumiseen yksittäisistä
+kestävyyskuormituksissa (Williams ym. 2003) ja myös pitemmällä aikavälillä lihasten
+aerobisissa adaptaatioissa. (Ferguson- Stegall ym. 2011) Uusimmat tutkimukset osoittavat proteiinilisän tehostavan proteiinisynteesiä myös nopeustyyppisissä kuormituksissa
+(Coffey ym. 2010) Coffeyn ym. (2010) tutkimuksen mukaan ennen suoritusta nautittu
+proteiinilisäjuoma lisäsi proteiinisynteesiä merkitsevästi enemmän kuin energiaton placebojuoma nopeustyyppisen kuormituksen jälkeen
+
+
+
+Hiilihydraattien nauttimisen on osoitettu edistävän lihasglykogeenin palautumista voimaharjoituksen jälkeen, mutta yksinään antavan vain pienen positiivisen vasteen lihaksen proteiinimetaboliaan. (Koopman ym. 2007). Kovan voimaharjoituksen yhteydessä
+hiilihydraattien nauttiminen voi vähentää proteiinien hajotusta, mutta ei merkittävästi lisää proteiinisynteesiä. (Miller ym. 2003, Børsheim ym. 2004). Børsheim ym. 2004 tutkimuksessa pelkän hiilihydraatin nauttiminen voimaharjoituksen yhteydessä muutti lihaksen proteiinimetaboliaa positiivisempaan suuntaan (kuva 15), mutta vaikutus ei ollut
+riittävä saamaan proteiinitasapainoa positiiviseksi, vaikka hiilihydraatin saanti (100g) oli
+määrällisesti erittäin suurta.
+
+
+Useimmissa tutkimuksissa yksinään hiilihydraatin nauttiminen voimaharjoituksen jälkeen ei ole lisännyt proteiinisynteesiä eikä vähentänyt proteiinien hajotusta voimaharjoituksen yhteydessä yhtä paljon kuin pelkkää proteiinia sisältänyt juoma tai proteiinia ja
+hiilihydraattia sisältäneet juomat (Miller ym. 2003, Bird ym. 2006, Hartmann 2007)
+
+
+Hiilihydraatin nauttiminen proteiinin lisänä on sen sijaan joidenkin tutkimusten perusteella osoitettu tehostavan lihasten proteiinisynteesiä ja vähentävän proteiinin hajotusta enemmän kuin pelkän proteiinin tai hiilihydraatin nauttiminen. (Bird 2006, Miller ym. 2003) Lisäksi hiilihydraatti-proteiinilisän nauttiminen on osoitettu tehostavan kuormituksen jälkeistä glykogeenivarastojen täydentämistä enemmän kuin pelkästään hiilihydraatin nauttiminen.
+(Berardi ym 2006). Miller ym. 2003 mukaan hiilihydraattien ja proteiinien yhteisvaikutus proteiinimetaboliaan voi olla jopa yhtä suuri kuin niiden yksittäisvaikutusten summa.
+Hiilihydraattien ja proteiinien yhteisvaikutuksesta proteiinimetaboliaan on myös ristiriitaisia tutkimustuloksia. Esimerkiksi Koopmanin (2007) tutkimuksen mukaan hiilihydraatin nauttiminen proteiinin lisäksi ei lisännyt kovan voimakuormituksen jälkeistä lihaksen proteiinisynteesiä tai vähentänyt proteiinin hajotusta, kun proteiini ja hiilihydraattiryhmää verrattiin pelkkään proteiiniryhmään. Onkin mahdollista, että pelkästään
+proteiinin nauttiminen kuormituksen yhteydessä riittää optimoimaan proteiinisynteesin
+kasvun ja proteiinin hajotuksen minimoimisen, jos vain proteiinin saanti on riittävän
+suurta. (van Loon ym. 2000) Tällöin hiilihydraattien rooli kuormituksesta palautumisen
+edistämisessä liittyisi pääosin energiavarastojen tehokkaampaan täydentämiseen.
+(Koopman 2007)
