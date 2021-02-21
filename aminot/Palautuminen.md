@@ -91,3 +91,14 @@ kasvun ja proteiinin hajotuksen minimoimisen, jos vain proteiinin saanti on riit
 suurta. (van Loon ym. 2000) Tällöin hiilihydraattien rooli kuormituksesta palautumisen
 edistämisessä liittyisi pääosin energiavarastojen tehokkaampaan täydentämiseen.
 (Koopman 2007)
+
+
+
+Eri proteiinilähteiden merkitystä palautumiseen on tutkittu varsin vähän, sillä palautumistutkimuksissa vertailuryhminä on yleisimmin käytetty joko
+hiilihydraattiryhmää (Hoffman 2010, Cooke ym. 2010, Cockburn 2008) tai energiatonta
+ravintolisäryhmää (Buckley ym. 2010). Buckleyn ym. (2010) tutkimuksessa eksentrisen
+voimaharjoituksen jälkeistä palautumisessa verrattiin kokonaista heraproteiinia, heraproteiinihydrolysaattia ja energiatonta plaseboa (kuva 17). Näistä heraproteiinihydrolysaat-
+tiryhmän suorituskyky isometrisessä maksimivoimatestissä palautui merkitsevästi nopeammin kuin muiden ryhmien.
+
+Onkin mahdollista, että koska proteiinin laadulla on tutkitusti merkitystä kuormituksen
+proteiinin synteesissä ja hajotuksessa (mm. Tang ym. 2008), on proteiinin laadulla merkitystä myös eri kuormituksista palautumiseen. (Hulmi 2010).
