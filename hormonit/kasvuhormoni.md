@@ -81,7 +81,7 @@ Hormonaalinen
  Kortisoli ↑
  Medroksyprogesteroni ↑
  
-7Vaikutukset
+Vaikutukset
 GH:n suorat vaikutukset välittyvät kasvuhormonireseptorin kautta. GH-reseptorin aktivaatio johtaa sen dimerisoitumiseen solukalvolla ja vuorovaikutukseen tyrosiinikinaasin
 (JAK2) kanssa (ks. kuvio 3). Mahdollisia GH:n solunsisäisiä signaalireittejä on useita.
 (Ganong 2001, 386-387.) Ei tiedetä aktivoituvatko nämä reitit kaikki aina kerralla vai
@@ -103,3 +103,22 @@ haiman herkkyyttä insuliinin eritystimulukseen, kuten arginiiniin ja glukoosiin
 2001, 388). GH lisää veren vapaiden rasvahappojen määrää, lipolyysiä ja rasvojen hapetusta (Djurhuus ym. 2004; Nørrelund ym. 2001; Møller ym. 1990). GH vaikuttaa
 myös positiivisesti mineraali- (Godfrey ym. 2003) ja nestetasapainoon kehossa (Borer
 2003, 92). 
+
+
+
+Suurimmassa osassa voimaharjoitustutkimuksia kasvuhormonin (GH) pitoisuuksia on
+arvioitu sen eniten veressä esiintyvän muodon perusteella (22 kDa). Hyvin vähän tunnetaan muiden GH:n muotojen akuuteista vasteista voimaharjoituksen yhteydessä.
+(Kraemer & Ratamess 2003.) Suuressa osassa tutkimuksista 22 kDa:n GH:n pitoisuus
+on noussut hypertrofistyyppisen voimaharjoituksen yhteydessä nuorilla miehillä
+(Ahtiainen ym. 2003a; Smilios ym. 2003; Häkkinen & Pakarinen 1993; Kraemer ym. 
+61
+1990; Häkkinen ym. 1988b), ollen yleensä huipussaan 15 minuutin sisällä harjoituksen
+jälkeen (Ahtiainen ym. 2004; Ahtiainen ym. 2003a; Williams ym. 2002; Chandler ym.
+1994; Kraemer ym. 1991; Kraemer ym. 1990) tai hieman myöhemmin (Kraemer ym.
+1998a) (kuvio 9). GH:n nousu on suurinta kun voimaharjoituksessa sarjat ovat pitkiä
+ja/tai volyymi on suuri (Smilios ym. 2003; Williams ym. 2002; Häkkinen & Pakarinen
+1993) ja palautusten kestot lyhyet (Kraemer ym. 1991; Kraemer ym. 1990). Tällöin
+harjoituksen glykolyyttinen energiantuotto on suurinta (Kraemer & Ratamess 2003).
+Ehdotettuja mekanismeja kasvuhormonin stimulaation lisääntymiselle voimaharjoituksen vaikutuksesta ovat mm. neuraalisen stimulaation lisääntyminen aivolisäkkeen etuosaan, pH:n lasku ja/tai laktaatin lisääntyminen, typpioksidin/-monoksidin ja katekoliamiinien lisääntyminen (Godfrey ym. 2003) sekä muut humoraaliset tekijät (Kraemer
+ym. 2001). 
+
