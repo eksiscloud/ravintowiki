@@ -64,3 +64,20 @@ Kortisoli käsitetään yleensä vain negatiiviseksi hormoniksi vaikka todellisu
 on paljon positiivisia vaikutuksia. Kortisoli inhiboi kudosvauriotilan tulehdusvastetta ja
 sen eritys on tärkeää myös proteiinien vaihtuvuuden kannalta ja toisaalta parantamassa
 pitkäkestoisen liikunnan aikaista suorituskykyä. Liikunnan tiedetään suojaavan luurankolihasta kortisolin antikataboliselta vaikutukselta. (Viru & Viru 2001, 88.) 
+
+
+
+Hypertrofistyyppisen voimaharjoituksen yhteydessä kortisolin pitoisuus yleensä nousee
+miehillä merkitsevästi jos intensiteetti ja volyymi on suuri (Ahtiainen ym. 2004;
+Thyfault ym. 2004; Ahtiainen ym. 2003a; Smilios ym. 2003; Kraemer ym. 1998a;
+Kraemer ym. 1998b; Häkkinen & Pakarinen 1993) (kuvio 8). Erityisen paljon kortisolin
+pitoisuus nousee kestovoimatyyppisessä voimaharjoituksessa (Smilios ym. 2003). Vastaavasti kun sarjat ovat lyhyitä ja/tai volyymi tai intensiteetti on pieni, niin kortisolin
+pitoisuus ei näytä nousevan (Smilios ym. 2003; Williams ym. 2002; Raastad ym. 2000;
+Häkkinen & Pakarinen 1993). Kortisolin pitoisuus näyttää olevan suurinta sellaisissa
+kuormituksissa joissa myös laktaatti- ja kasvuhormonipitoisuudet ovat suurimmat, eli
+glykolyyttisissä harjoituksissa, joissa myös glukoosimetabolia järkkyy eniten (Kraemer
+& Ratamess 2003). Suuri volyymi, pitkät sarjat ja lyhyet palautukset sarjojen välillä
+aiheuttavatkin suuren kortisolin nousun (Ahtiainen ym. 2004; Smilios ym. 2003;
+Häkkinen & Pakarinen 1993). Myös kortisolin eritystä stimuloivan ACTH:n pitoisuus
+nousee hypertrofistyyppisen voimaharjoituksen (Kraemer ym. 1998a), mutta ei niinkään
+maksimivoimatyyppisen harjoituksen yhteydessä (Raastad ym. 2000). 
