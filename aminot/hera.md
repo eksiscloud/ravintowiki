@@ -23,3 +23,12 @@ kolme tuntia proteiinin nauttimisen jälkeen. Myös pidempiaikaiset tutkimukset 
 osoittaneet heran olevan tehokkaampi lihaksen proteiinisynteesin kasvattaja ja sitä kautta
 suuremman lihaksen hypertrofian stimuloija kuin soija tai kaseiini. Toisaalta on myös
 tutkimuksia, joissa proteiinin laadulla ei ollut vaikutusta tuloksiin. (Hulmi 2010) 
+
+
+Heraproteiinilla on positiivisia vaikutuksia rasituksen jälkeiseen hiilihydraattiaineenvaihduntaan stimuloimalla lihaksen glukoosin ottoa ja glykogeenin muodostumista.
+(Manninen 2009) Heran sisältämillä bioaktiivisilla yhdisteillä kuten laktoferriini, laktoferrisiini ja lysotsyymin saattavat vaikuttaa positiivisesti immuunisysteemiin ja voivat sitä kautta olla hyödyllisiä urheilijoilla esimerkiksi kovan harjoitusjakson aikana. Immuniteetin lisäksi heran proteiineilla on glykomakropeptidien kautta mahalaukun terveyttä
+edistäviä vaikutuksia. (Ha & Zemel 2003). Herassa on myös paljon vitamiineja ja mineraaleja (Hoffman & Falvo 2004) ja antioksidantteja kuten laktoferriini ja laktoferrisiini.
+(Ha & Zemel 2003). Hall ym. 2003 tutkimus osoitti heraproteiinin nauttimisen lisäävän
+kylläisyyden tunnetta enemmän kuin kaseiiniproteiinin ja heran sisältämä suuri määrä
+kalsiumia voi lisätä lipolyysiä ja sen avulla vähentää kehon rasvamäärää. (Ha & Zemel
+2003).
