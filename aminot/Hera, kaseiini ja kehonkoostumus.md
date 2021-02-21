@@ -17,3 +17,10 @@ Lands, L.C., Grey, V.L. & Smountas, A.A. 1999. Effect of supplementation with a 
 
 Demling, R.H. & DeSanti, L. 2000. Effect of a hypocaloric diet, increased protein intake and resistance training on lean mass gains and fat mass loss in overweight
 police officers. Annals of Nutrition & Metabolism 44, 21-29. 
+
+
+
+hera-kaseinaattiyhdistelmän nauttiminen puoli
+tuntia ennen voimaharjoitusta on suositeltavaa lihasmassan kasvun kannalta. Se saattaa
+kuitenkin olla epäedullista voimaharjoituksen aikana ja vähintään kahden tunnin ajan
+sen jälkeen kehon rasvavarastojen mobilisoinnin ja energiaksi käytön kannalta.
