@@ -20,6 +20,20 @@ Insuliinin heikentynyttä vaikutusta kudoksissa kutsutaan insuliiniresistenssiks
 --->
 
 
+https://www.merckvetmanual.com/dog-owners/hormonal-disorders-of-dogs/disorders-of-the-pancreas-in-dogs
+
+The pancreas is composed of several types of cells that have distinct functions involved in the production of hormones and digestive enzymes. The exocrine pancreas produces enzymes that are essential for the digestion of complex dietary components such as proteins, triglycerides, and complex carbohydrates. The exocrine pancreas also secretes large amounts of bicarbonate, which buffers stomach acid. Disorders of the exocrine pancreas are discussed in the section on digestive disorders, because they relate to digestion. The endocrine pancreas produces the hormones insulin and glucagon, which regulate blood sugar levels. The functions and disorders of the endocrine pancreas are discussed in this section.
+
+The islets of Langerhans in the pancreas consist of 3 types of cells, each of which produces a different hormone. Most of the cells, which are called beta cells, produce insulin. Insulin affects, either directly or indirectly, the function of every organ in the body, particularly the liver, fat cells, and muscle. In general, insulin increases the transfer of glucose (sugar) and other compounds into body cells. It also decreases the rate of fat, protein, and carbohydrate breakdown.
+
+The other 2 cell types in the islets of Langerhans produce the hormones glucagon and somatostatin. When blood glucose levels drop, glucagon is released. Glucagon helps convert stored carbohydrates into glucose so they can be used as energy.
+
+Insulin and glucagon work together to keep the concentration of glucose in the blood and other body fluids within a relatively narrow range. Glucagon controls glucose release from the liver, and insulin controls glucose transport into numerous body tissues.
+
+
+---->
+
+
 Insuliini on peptidihormoni, molekyylipainoltaan 5808 Da, jota tuotetaan haiman Langerhansin saarekkeiden β-soluissa. Samojen saarekkeiden eri osissa eritetään myös glukagonia, somatostatiinia ja haiman polypeptidiä. Somatostatiini inhiboi parakriinisesti
 insuliinin ja glukagonin eritystä. Insuliinia muodostetaan sen prekursorista proinsuliinista poistamalla C-peptidi A- ja B-peptidien välistä. (Ganong 2001, 322; Guyton &
 Hall 2000, 884.)
