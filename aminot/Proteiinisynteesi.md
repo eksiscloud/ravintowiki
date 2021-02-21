@@ -77,3 +77,10 @@ yhtä positiivisesti lihaksen proteiinisynteesiin ja nettotasapainoon. Tätä tu
 myös Børsheimin ym. (2002) tutkimus, jossa 6 g aminohappoja tunti voimaharjoituksen
 jälkeen aiheutti samanlaisen anabolisen vasteen lihaksessa kuin vastaavan juoman nauttiminen tunti myöhemmin. 
 
+
+
+
+Aiempien tutkimustulosten perusteella näyttäisi, että 20 - 30
+grammaa proteiinia on riittävä määrä maksimoimaan proteiinisynteesi voimakuormituksen yhteydessä. (Moore ym,. 2009; Hulmi 2010). 
+
+
