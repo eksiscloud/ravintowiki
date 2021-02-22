@@ -1,3 +1,16 @@
+Hermoston välittäjäaineet eli neurotransmitterit hoitavat hermosolun ja jonkun toisen muun solun välistä tietoliikennettä. Koska kyse on aina sähköisestä signaalista, niin neurotransmitterit voivat toimia joko sähkölankana (välittäjänä), vahvistimena (voimistajana), katkaisijana (estämässä) tai muuntajana (mukauttamassa) signaalia.
+
+Esimerkiksi aistien toiminta tai lihaksiston liike vaatii neurotransmittereita. Muutoin silmä ei sopeudu liikkeeseen tai valoon, tai lihas ei osaa supistua.
+
+== Aivojen välittäjäaine ==
+Keskushermostossa, aivoissa ja selkäytimessä, tarvitaan hermosolujen välillä omat viestintätiensä. Ne ovat neurotranmittereita kuten hermostonkin välittäjäaineet, mutta koostumukseltaan hieman erilaisia. Suurin osa niistä on [[Aminohapot|aminohappoja]], noin kymmenesosa on amiineja ([[Ammoniakki|ammoniakin]] tapainen yhdiste) ja prosentin verran peptidejä (proteiinia pienempi aminohappoketju).
+
+Aivojen tärkein signaalia kiihdyttävä aminohappo on [[glutamaatti]]. Ja koska aina tarvitaan vastavaikuttaja, niin hidastajana (estäjänä) toimii [[GABA|gamma-aminovoihappo]], josta käytetään aina lyhennettä GABA. Selkäytimessä taasen kiihdyttävänä on [[glysiini]] ja se vastapari on [[aspartaatti]].
+
+Muita aivoissa vaikuttavia välittäjäaineita ovat [[noradrenaliini]], [[dopamiini]], [[serotoniini]] ja [[histamiini]].
+
+
+
 
 
 wikipedia:
