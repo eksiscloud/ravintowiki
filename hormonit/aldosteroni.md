@@ -1,0 +1,3 @@
+Aldosteroni säätelee [[natrium]]in takaisinottoa munuaisista. Sen osuus on pari prosenttia munuaisten koko natriumsuodatuksesta, joka ei tunnu suurelta, mutta se vastaa veren koko natriumpitoisuudesta. Samalla kun aldosteroni siirtää natriumia vereen, niin se kiihdyttää kalium- ja vetyionien eritystä. [[Kalium]]in määrää käytetäänkin mittarina natriumille, ja se säätele aldosteronin eritystä; mitä enemmän on kaliumia, niin sitä enemmän eritetään aldisteronia, koska lisääntyvä kalium on merkki natriumin puutteesta veressä, ja päinvastoin – kun kalium laskee, niin myös aldosteronin määrä laskee, koska kaliumin vähentyessä natrium lisääntyy.
+
+[[Luokka:Hormonit]]
