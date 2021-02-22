@@ -1,3 +1,10 @@
+Kortisoli eli hydrokortisoni on tärkein [[glukokortikoideista]]. Normaalisti sitä erittyy eniten aamuyöstä, eikä erittyminen ole riippuvainen unesta. Kysymys on valon määrään liittyvästä reaktiosta. Kortisoli kuuluu stressihormoneihin, koska stressireaktio nostaa aina kortisolin tuotantoa, jotta saataisiin [[glukoosi]]a sekä immuunivastetta säädettyä.
+
+Kortisoni on kortisolin aineenvaihduntatuote, kun se muuttuu entyymituotannolla [[mineralokortikoidit|mineralokortikoidien]]kohdesolussa kortisoliksi.
+
+[[Luokka:Hormonit]]
+
+
 ## Muokkaukseen ##
 **Lähteet aminoissa**
 
