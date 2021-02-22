@@ -7,4 +7,13 @@ Glukokortikoidien yhteinen tekijä on se, että ne osallistuvat [[Hiilihydraatit
 
 Glukokortikoidit lievittävät myös immuunivastetta ja sen reaktioita, jonka vuoksi [[kortisoni]]a käytetään immuunipuolen ongelmissa lääkkeenä.
 
+=== Addisonin tauti ===
+Addisonin tauti syntyy, kun lisämunuaisten kuorikerros ei eritä riittävästi glukokortikoideja. Oireita ovat mm. ruokahaluttomuus, masentuneisuus, oksentelu ja lihasheikkous. Addisonin tauti on harvinainen, mutta sitä esiintyy jonkin verran koirilla
+
+=== Cushingin oireyhtymä ===
+Cushingin oireyhtymä johtuu lisääntyneestä glukokortikoidien erityksestä. Syy voi olla lisämunuaisessa itsessään, esim. kasvain, tai aivolisäke erittää liikaa hormonia ACTH, joka yllyttää lisämunuaisen kuorikerrosta tuottamaan liikaa kortisolia. Koirilla oireita ovat mm. lihaskato, ihon huono kunto, turkin irtoaminen ja päärynämäinen lihoaminen.
+
+== Mineralokortikoidit ==
+Mineralokortikoidit osallistuvat mineraalivaihduntaan. Käytännössä kyse on [[natrium]]in ja [[kalium]]in säätelystä munuaisissa.
+
 [[Luokka:Hormonit]]
