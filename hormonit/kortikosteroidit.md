@@ -1,0 +1,3 @@
+Kortikosteroidit ovat [[Hormonit|steroidihormoneita]], jotka on kaikki rakennettu [[kolesteroli]]sta. Lisämunuaiskuoressa valmistetaan kahta erilaista kortikosteroidien ryhmää riippuen mitä entsyymejä valmistukseen osallistuu: glukokortikoideja ja mineralokortikoideja.
+
+Kortikotropiini eli [[ACTH]] yhdessä [[ADH]]:n (vasopressiini) kanssa ne ovat suurimpia määrääjiä mitä tehdään stressissä ja varsinkin äkillisessä. Aivolisäkkeen ACTH kontrolloi tärkeimpänä mitä hormoneita lisämunuaiset erittävät. Glukokortikoidit eivät kuitenkaan ole varsinaisia akuutin, nopean tilanteen stressihormoneita, vaan reagoivat hitaammin. Glukokortikoidien määrän nousu vie vartista puoleen tuntiin. Tilanne ei myöskään tasaannu yhtään nopeammin, sillä väheneminen vie aikaa 60 – 90 minuuttia.
