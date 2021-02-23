@@ -1,33 +1,43 @@
-## Muokkaukseen ##
-**Lähteet aminoissa**
+{{tynkä|asia on vajaata}}
 
-Insuliininkaltaisia kasvutekijöitä eritetään maksassa ja muissa kudoksissa. Niistä tunnetuin on IGF-I, toiselta nimeltään somatomediini-C. Veressä kiertää IGF-I:n lisäksi
-myös IGF-II. (Thissen ym. 1994.) Lihassolut tuottavat kahta IGF:ää: IGF-1Ea:ta ja
-MGF:ää. IGF-1Ea on samankaltainen maksassa tuotetun, endokriinisesti vaikuttavan
-IGF-1:n kanssa. MGF on spesifisesti, lihassolujen mekaanisen ärsytyksen seurauksena 
-ilmentyvä muoto. (Yang ym. 1996; Mckoy ym. 1999.) IGF-1Ea kulkeutuu myös verenkiertoon ja tämä saattaa olla yhtenä syynä maksan erityksen lisäksi veren IGF-I:n pitoisuuksien nousuun, joita joskus on havaittu esimerkiksi voimaharjoituksen yhteydessä.
-(Goldspink & Harridge 2003, 239-240). MGF on yhteydessä satelliittisolujen aktivoitumiseen ja jakautumiseen, mikä on edellytys lihasten kasvulle (Adams & McCue
-1998). IGF-I:n tiedetään vähentävän proteiinien hajotusta ja lisäävän proteiinisynteesiä
-lihaksissa (Kraemer & Mazzetti 2003; Viru & Viru 2001). Uskotaan, että ainakin osa
-kasvuhormonin vaikutuksista kasvuun välittyvät insuliininkaltaisten kasvutekijöiden
-kautta (Ganong 2001, 390). 
+IGF-1 ja IGF-2 ovat insuliinin kaltaisia kasvutekijöitä. Ne muodostuvat maksassa ja muissa kudoksissa. Eritystä ohjaa aivolisäke. IGF-tekijät, ja varsinkin niistä tärkein IGF-1 on sekä endokriininen eli umpierityksen [[Hormonit|hormoni]] kuin myös kudoshormoni eli sitä eritetään suoraan eri kudoksista. Samalla se on lisäksi parakriininen hormoni eli vaikuttaa naapurisoluihin sekä autokriininen eli IGF-1 hormonia erittävä solu on samalla myös kohdesolu.
+
+IGF-1 vaikuttaa nopeimmillaan anabolisiin toimintoihin niin [[Hiilihudraatit|hiilihydraattien]] kuin [[Proteiinit|proteiinienkin]] aineenvaihdunnassa esim. lisäämällä [[Aminohapot|aminohappojen]] ottoa soluihin. Se on myös yksi tärkeimmistä lihaskasvun säätelijöistä. IGF-1 on mitogeeni eli solunjakautumista käynnistävä ja kiihdyttävä tekijä, jolla on siten merkitystä muun kudoskasvun lisäksi myös DNA:n synteesissä.
+
+== Yleistä IGF:stä ==
+Lihassolut tuottavat kahta IGF:ää: IGF-1Ea:ta ja MGF:ää. IGF-1Ea on samankaltainen maksassa tuotetun, endokriinisesti vaikuttavan IGF-1:n kanssa. MGF on spesifisesti, lihassolujen mekaanisen ärsytyksen seurauksena ilmentyvä muoto. IGF-1Ea kulkeutuu myös verenkiertoon ja tämä saattaa olla yhtenä syynä maksan erityksen lisäksi veren IGF-I:n pitoisuuksien nousuun, joita joskus on havaittu esimerkiksi voimaharjoituksen yhteydessä.
+
+MGF on yhteydessä satelliittisolujen aktivoitumiseen ja jakautumiseen, jota tarvitaan lihasten kasvulle. IGF-I vähentää proteiinien hajotusta ja lisää [[proteiinisynteesi]]ä lihaksissa<ref>Kraemer, W.J. & Mazzetti, S.A. 2003. Hormonal mechanisms related to the expression of muscular strength and power. Teoksessa Komi, P.V. (toim.) Strength and Power in Sport. Blackwell Science Ltd, UK, 73-95.</ref><ref>Viru, A. & Viru, M. 2001. Biochemical monitoring of sport training. Human Kinetics, USA.</ref>. Oletettavasti ainakin osa kasvuhormonin vaikutuksista kasvuun välittyvät insuliininkaltaisten kasvutekijöiden kautta<ref>Ganong, W.F. 2001. Review of Medical Physiology. McGraw-Hill, New York.</ref>.
+
+== IGF:n säätely ==
+IGF-1:tä säätelee [[kasvuhormoni]]n lisäksi geneettiset tekijät, [[tyroksiini]] ja muut [[Kilpirauhanen|kilpirauhashormonit]], sukupuolihormonit ja [[kortisoli]], sekä ravitsemus – IGF-1 reagoi mm. saatavilla oleviin ravintoaineisiin. Ihmisillä esimerkiksi neljän päivän paasto romahduttaa IGF-1 tasot puoleen. Koska ravintoaineet vaikuttavat sen eritykseen, niin silloin myös niin ali- kuin yliruokintakin vaikuttaa aina jollain tavalla IGF-1 määriin ja sitä kautta omalla tavallaan joko nopealla reaktiolla aineenvaihduntaan ja pidemmällä aikavälillä kasvuun. 
+
+IGF-1:en puoliintumisaika on kuitenkin kohtuullisen lyhyt, muutamia tunteja, joten jo pelkästään ruokailujen välit hyvin sulavalla ruualla saavat IGF-1 tasot heilahtelemaan. Käytännölle tuo ei ole merkityksellistä. Mutta sen sijaan tieto, että kalaöljy saa IGF-1 tasot reagoimaan nopeammin, saattaa olla oleellinen tieto, varsinkin laihoilla koirilla sekä lihaskasvua haettaessa.
+
+Ihmisillä IGF-1 määrät ovat alhaiset syntymässä ja lähtevät nousuun kohti puberteettia ja pysyy ylhäällä aina 20 ikävuoteen asti, jonka jälkeen määrät lähtevät iän myötä laskuun, mutta vaihtelevat silti eri tekijöiden suhteen, kuten vaikka fyysisen aktiivisuuden myötä. Koirien IGF-1 tasoista ei ole täyttä varmuutta, jos mietitään koko elinkaarta.
+
+== IGF ja kasvu ==
+Kasvutekijöillä on suuri merkitys pennun kasvulle heti syntymästä. Se ei vielä itse kykene täyteen hormonituotantoon, joten sen on saatava ne maidosta. Koirien koolla on merkitystä siihen paljonko emä IGF-1:tä tuottaa, ja se johtuu täysin pentujen koosta ja ensimmäisten päivien kasvusta. Isojen on kasvettava nopeammin, koska niillä on suurin suhteellinen (ja myös määrällinen) ero syntymä- ja aikuispainon välillä, mutta kasvuaika on hyvin lähellä samaa muiden kanssa. 
+
+Tanskandoggiemä tuottaa [[Ternimaito|ternimaidossa]] lähes kaksi kertaa enemmän IGF-1 tekijää kuin beagle, 70 nl/mg vastaan 40 ng/ml, ja määrät tipahtavat kolmanteen imetyspäivään mennessä noin 10 ng/ml määrään ja pysyy tuon ja 20 ng/ml välissä loppuimetyksen ajan<ref>White ME, Hathaway MR, Dayton WR, Henderson T, Lepine AJ.: Comparison of insulin-like growth factor-I concentration in mammary secretions and serum of small- and giant-breed dogs. Am J Vet Res. 1999 Sep;60(9):1088-91.</ref>. Kolmanteen päivään mennessä pentujen on siis käynnistettävä itse kasvuhormonituotantoaan, vaikka se saakin hivenen tukea emältä. Ongelmaksi nousee koko ajan kehittyvä vatsalaukku, joka alkaa käyttämään kasvutekijöitä ravinnoksi kuin mitä tahansa proteiineja<ref>Blum JW, Baumrucker CR.: Colostral and milk insulin-like growth factors and related substances: mammary gland and neonatal (intestinal and systemic) targets. Domest Anim Endocrinol. 2002 Jul;23(1-2):101-10.</ref>, joten imetyksen myöhemmässä vaiheessa IGF-1 maidossa kertoneekin enemmän emän oman elimistön toipumisesta kuin pentujen saamasta avusta. Koska IGF-1 ja paino kulkevat heti syntymästä alkaen käsi kädessä, niin on syytä olettaa, että IGF-1 liittyy jo heti alusta erittäin vahvasti terveeseen kasvuun.
+
+IGF-1 liittyy mahdollisesti vahvemmin nimenomaan lihasten kasvuun kuin kasvuhormoni, ainakin hiirikokeiden perusteella. Siksi kasvuhormonin vaihtelut vaikuttavat vahvemmin luustoon ja pituuskasvuun, ei lihasten kehittymiseen ja kykyyn vahvistua<ref>Vijayakumar A1, Buffin NJ, Gallagher EJ, Blank J, Wu Y, Yakar S, LeRoith D.: Deletion of growth hormone receptors in postnatal skeletal muscle of male mice does not alter muscle mass and response to pathological injury. Endocrinology. 2013 Oct;154(10):3776-83.</ref>. Toki tuokin on liian tiukka rajaus, ja vaikutukset menevät päällekkäin. Jo pelkästään sekin, että IGF-1 lisää sisäistä [[D-vitamiini]]n valmistusta lisäten siten [[kalsium]]in ja [[fosfori]]n imeytymistä ja vähentäen [[PTH]]:n eritystä<ref>Ameri P, Giusti A, Boschetti M, Murialdo G, Minuto F, Ferone D.: Interactions between vitamin D and IGF-I: from physiology to clinical practice. Clin Endocrinol (Oxf). 2013 Oct;79(4):457-63.</ref>. Parathormoni PTH eli lisäkilpirauhashormoni lisää kalsiumin pitoisuutta veressä lisäämällä [[osteoklasti]]en määrää ja aktivoimalla niitä sekä tehostamalla kalsiumin imeytymistä munuaisista. PTH:n eritystä säätelee kalsiumin määrä veressä, joten mutkankin kautta IGF-1 säätelee luuston muodostumista.
+
+Kun hiirille annettiin kasvuhormonia, niin sen anaboliset vaikutukset riippuivat saadusta ravinnosta. Lihaksissa oleva IGF-1 nousi kasvuhormonin myötä, mutta ei ollut riippuvainen ravinnosta. Aliravitsemuksessa sen sijaan IGF-1 lähti heti laskuun<ref>Loughna PT, Mason P, Bates PC.: Regulation of insulin-like growth factor 1 gene expression in skeletal muscle. Symp Soc Exp Biol. 1992;46:319-30.</ref>.
+
+Koiralla on suhteellisesti korkeampi IGF-1 kuin ihmisellä. Sitä pidetään yhtenä syynä koirien lyhyempään elinikään ja nopeampaan vanhenemiseen.
+
+== IGF-1 ja treenaus ==
+Monet kasvuhormonin välittyvät insuliinin kaltaisten kasvutekijöiden kautta. Useissa tutkimuksissa veren IGF-I on pysynyt ennallaan<ref>Nindl, B.C., Kraemer, W.J., Gotshalk, L.A., Marx, J.O., Arciero, P.J., Dohi, K., Kellogg, M.D. & Loomis, G.A. 2001b. Overnight responses of the circulating IGF-I system after acute, heavy-resistance exercise. Journal of Applied Physiology 90, 1319-1326.<ref><ref>Bamman, M.M., Shipp, J.R., Jiang, J., Gower, B.A., Hunter, G.R., Goodman, A., McLafferty Jr, C.L. & Urban, R.J. 2001. Mechanical load increases muscle IGF-I and androgen receptor mRNA concentrations in humans. American Journal of Physiology: Endocrinology and Metabolism 280, E383-E390.</ref><ref>Kraemer, W.J., Volek, J.S., Bush, J.A., Putukian, M. & Sebastianelli, W.J. 1998b. Hormonal responses to consecutive days of heavy-resistance exercise with or without nutritional supplementation. Journal of Applied Physiology 85, 4, 1544-1555.</ref><ref>Chandler, R.M., Byrne, H.K., Patterson, J.G. & Ivy, J.L. 1994. Dietary supplements affect the anabolic hormones after weight-training exercise. Journal of Applied Physiology 76, 839-845.</ref> ja joissain noussut voimaharjoituksen aikana ja jälkeen<ref>Kraemer, W.J., Gordon, S.E., Fleck, S.J., Marchitelli, L.J., Mello, R., Dziados, J.E., Friedl, K., Harman, E., Maresh, C. & Fry, A.C. 1991. Endogenous anabolic hormonal and growth factor responses to heavy resistance exercise in males and females. International Journal of Sports Medicine 12, 228-235.</ref><ref>Kraemer, W.J., Marchitelli, L., Gordon, S.E., Harman, E., Dziados, J.E., Mello, R., Frykman, P., McCurry, D. & Fleck, S.J. 1990. Hormonal and growth factor responses to heavy resistance exercise protocols. Journal of Applied Physiology 69, 4, 1442-1450.</ref>. Saattaa olla, että IGF-I nousua ei ole havaittu johtui ehkä siitä, että kasvuhormonin stimuloima IGF-I:n lisäys näkyi veressä vasta useiden tuntien kuluttua<ref>Kraemer, W.J., Volek, J.S., Bush, J.A., Putukian, M. & Sebastianelli, W.J. 1998b. Hormonal responses to consecutive days of heavy-resistance exercise with or without nutritional supplementation. Journal of Applied Physiology 85, 4, 1544-1555.</ref><ref>Chandler, R.M., Byrne, H.K., Patterson, J.G. & Ivy, J.L. 1994. Dietary supplements affect the anabolic hormones after weight-training exercise. Journal of Applied Physiology 76, 839-845.</ref>. Toisaalta näyttää myös siltä, että voimaharjoittelu vaikuttaisikin IGF-I:n sijaan sen sitojaproteiineihin ja sitä kautta biologiseen aktiivisuuteen<ref>Nindl, B.C., Kraemer, W.J., Gotshalk, L.A., Marx, J.O., Arciero, P.J., Dohi, K., Kellogg, M.D. & Loomis, G.A. 2001b. Overnight responses of the circulating IGF-I system after acute, heavy-resistance exercise. Journal of Applied Physiology 90, 1319-1326.</ref>.
+
+== IGF-2 ==
+
+IGF-2 on IGF-1:en tyyppinen hormoni, jonka merkitystä ei täysin edes tunneta. Se on 70 prosenttisesti samanlainen kuin IGF-1. IGF-2:en uskotaan olevan aktiivinen sikiön solujen erikoistumisessa sekä aineenvaihdunnan säätelyssä ja olevan solujen jakautumisessa IGF-1:tä vahvempi mitogeeni. IGF-2:en säätelyä ei tunneta kunnolla, mutta ainakin osa hormoneista, IGF-tekijöitä sitovat proteiinit sekä aliravitsemus ja ylipaino vaikuttavat siihen.
+
+== Lähteet ==
 
 
 
-Monet GH:n toiminnot välittyvät insuliinin kaltaisten kasvutekijöiden kautta. Useimmissa tutkimuksissa veren IGF-I on pysynyt ennallaan (Nindl ym. 2001b; Bamman ym.
-2001; Kraemer ym. 1998b; Chandler ym. 1994) ja joissain noussut voimaharjoituksen
-aikana ja jälkeen (Kraemer ym. 1991; Kraemer 1990). Yksi selitys sille että IGF-I nousua ei ole havaittu on mahdollisesti, että GH:n stimuloima IGF-I:n lisäys veressä ilmenee vasta useiden tuntien kuluttua (Kraemer ym. 1998b; Chandler ym. 1994). Toisaalta
-voimaharjoitus näyttää vaikuttavan IGF-I:n sijaan sen sitojaproteiineihin ja sitä kautta 
-biologiseen aktiivisuuteen (Nindl ym. 2001b) sekä lihasten IGF-I:n muotojen transkriptioon (Bamman ym. 2001).
-Voimaharjoituksen aikana insuliinin pitoisuus veressä yleensä laskee (Thyfault ym.
-2004; Kraemer ym. 1998b) tai pysyy muuttumattomana (Chandler ym. 1994; Fahey ym.
-1993). Mahdollinen insuliinin lasku johtuu sympaattisen aktiivisuuden lisääntymisestä
-(Pullinen ym. 1998), mikä vaikuttaa α2-adrenoreseptoreihin haimassa ja sitä kautta inhiboi insuliinin eritystä (Borer 2003, 100). Insuliinin pitoisuuksien pysyminen ennallaan
-tai lasku on siinä mielessä hyvä asia, että insuliini häiritsee energiasubstraattien mobilisointia harjoituksen aikana (Viru & Viru 2001, 53). Kovan intensiteetin harjoituksen
-jälkeen adrenergisen aktiivisuuden nopeasti vähentyessä plasman insuliinin pitoisuudessa voidaan joskus havaita nousupiikki (Tipton ym. 2001; Chandler ym. 1994;
-Hodgetts ym. 1991).
-Voimaharjoituksen yhteydessä myös monen muun veren hormonin pitoisuuksissa on
-havaittu nousua. Näistä esimerkkinä adrenaliini, noradrenaliini ja dopamiini (Kraemer
-ym. 1999; Pullinen ym. 1998), β-endorfiini (Kraemer ym. 1993), prolaktiini (Kraemer
-ym. 1998b), reniini, aldosteroni, eteispeptidi ja angiotensiini II (Kraemer ym. 1999).
-Sen sijaan glukagonin pitoisuuksissa ei ole havaittua merkittävää nousua voimaharjoituksen aikana (Fahey ym. 1993). 
+[[Luokka:Hormonit]]
+
+
