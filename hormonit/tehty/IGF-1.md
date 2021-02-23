@@ -1,8 +1,8 @@
-{{tynkä|asia on vajaata}}
+{{tynkä|syy=asia on vajaata}}
 
-IGF-1 ja IGF-2 ovat insuliinin kaltaisia kasvutekijöitä. Ne muodostuvat maksassa ja muissa kudoksissa. Eritystä ohjaa aivolisäke. IGF-tekijät, ja varsinkin niistä tärkein IGF-1 on sekä endokriininen eli umpierityksen [[Hormonit|hormoni]] kuin myös kudoshormoni eli sitä eritetään suoraan eri kudoksista. Samalla se on lisäksi parakriininen hormoni eli vaikuttaa naapurisoluihin sekä autokriininen eli IGF-1 hormonia erittävä solu on samalla myös kohdesolu.
+IGF-1 ja IGF-2 ovat [[insuliini]]n kaltaisia kasvutekijöitä. Ne muodostuvat maksassa ja muissa kudoksissa. Eritystä ohjaa aivolisäke. IGF-tekijät, ja varsinkin niistä tärkein IGF-1 on sekä endokriininen eli umpierityksen [[Hormonit|hormoni]] kuin myös kudoshormoni eli sitä eritetään suoraan eri kudoksista. Samalla se on lisäksi parakriininen hormoni eli vaikuttaa naapurisoluihin sekä autokriininen eli IGF-1 hormonia erittävä solu on samalla myös kohdesolu.
 
-IGF-1 vaikuttaa nopeimmillaan anabolisiin toimintoihin niin [[Hiilihudraatit|hiilihydraattien]] kuin [[Proteiinit|proteiinienkin]] aineenvaihdunnassa esim. lisäämällä [[Aminohapot|aminohappojen]] ottoa soluihin. Se on myös yksi tärkeimmistä lihaskasvun säätelijöistä. IGF-1 on mitogeeni eli solunjakautumista käynnistävä ja kiihdyttävä tekijä, jolla on siten merkitystä muun kudoskasvun lisäksi myös DNA:n synteesissä.
+IGF-1 vaikuttaa nopeimmillaan anabolisiin toimintoihin niin [[Hiilihydraatit|hiilihydraattien]] kuin [[Proteiinit|proteiinienkin]] aineenvaihdunnassa esim. lisäämällä [[Aminohapot|aminohappojen]] ottoa soluihin. Se on myös yksi tärkeimmistä lihaskasvun säätelijöistä. IGF-1 on mitogeeni eli solunjakautumista käynnistävä ja kiihdyttävä tekijä, jolla on siten merkitystä muun kudoskasvun lisäksi myös DNA:n synteesissä.
 
 == Yleistä IGF:stä ==
 Lihassolut tuottavat kahta IGF:ää: IGF-1Ea:ta ja MGF:ää. IGF-1Ea on samankaltainen maksassa tuotetun, endokriinisesti vaikuttavan IGF-1:n kanssa. MGF on spesifisesti, lihassolujen mekaanisen ärsytyksen seurauksena ilmentyvä muoto. IGF-1Ea kulkeutuu myös verenkiertoon ja tämä saattaa olla yhtenä syynä maksan erityksen lisäksi veren IGF-I:n pitoisuuksien nousuun, joita joskus on havaittu esimerkiksi voimaharjoituksen yhteydessä.
