@@ -162,3 +162,18 @@ hemmin transkriptioprosessin kautta (Liu & Barrett 2002). Proteiinien hajotuksen
 Muut vaikutukset. Insuliinilla on myös monia muita kuin hiilihydraatti-, rasva- tai proteiinimetaboliaan liittyviä vaikutuksia. Insuliini kasvattaa solujen kokoa, vähentää ketoaineiden tuottoa maksassa ja lisää kalium-ionien kulkeutumista solujen sisään. (Ganong
 2001, 325-327). Insuliini näyttää lisäävän myös kylläisyyden tunnetta (Borer 2003,
 140).
+
+
+
+Voimaharjoituksen aikana insuliinin pitoisuus veressä yleensä laskee (Thyfault ym.
+2004; Kraemer ym. 1998b) tai pysyy muuttumattomana (Chandler ym. 1994; Fahey ym.
+1993). Mahdollinen insuliinin lasku johtuu sympaattisen aktiivisuuden lisääntymisestä
+(Pullinen ym. 1998), mikä vaikuttaa α2-adrenoreseptoreihin haimassa ja sitä kautta inhiboi insuliinin eritystä (Borer 2003, 100). Insuliinin pitoisuuksien pysyminen ennallaan
+tai lasku on siinä mielessä hyvä asia, että insuliini häiritsee energiasubstraattien mobilisointia harjoituksen aikana (Viru & Viru 2001, 53). Kovan intensiteetin harjoituksen
+jälkeen adrenergisen aktiivisuuden nopeasti vähentyessä plasman insuliinin pitoisuudessa voidaan joskus havaita nousupiikki (Tipton ym. 2001; Chandler ym. 1994;
+Hodgetts ym. 1991).
+Voimaharjoituksen yhteydessä myös monen muun veren hormonin pitoisuuksissa on
+havaittu nousua. Näistä esimerkkinä adrenaliini, noradrenaliini ja dopamiini (Kraemer
+ym. 1999; Pullinen ym. 1998), β-endorfiini (Kraemer ym. 1993), prolaktiini (Kraemer
+ym. 1998b), reniini, aldosteroni, eteispeptidi ja angiotensiini II (Kraemer ym. 1999).
+Sen sijaan glukagonin pitoisuuksissa ei ole havaittua merkittävää nousua voimaharjoituksen aikana (Fahey ym. 1993). 
