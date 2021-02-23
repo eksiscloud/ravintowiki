@@ -1,3 +1,61 @@
+Kalsium on eniten laskettu makromineraali koiran ruokinnassa. Yhtenä syynä on se, että siihen on ollut niin helppo keskittyä ja se on helppo sekä useimmiten tiedossa oleva asia ruokien kohdalla. Silti kalsiumin annostus koiran raakaruokinnassa on myös ehkä eniten kysytty kysymys.
+
+Tärkeimmät tehtävät
+luuston rakentaminen
+solujen toiminta
+hermoston toiminta
+veren hyytyminen
+elimistön pH-tasapaino
+Tärkeimmät saantitiet
+luut
+lisäravinteet (kalsiumjauheet, kalkkijauheet)
+Yhteisvaikutukset
+D-vitamiini tehostaa kalsiumin imeytymistä, jos sitä on ruuassa vähän. D-vitamiinin täytyy olla kehossa aktiivisessa muodossa, ruokaan lisääminen ei auta.
+Fytaatit voivat heikentää kalsiumin imeytymistä
+Korkea ruuan rasvapitoisuus voi heikentää kalsiumin imeytymistä; noin yli 40 % kuiva-aineesta, mutta aidosti myös syödyt grammat vaikuttavat, joten prosentti koskee kuivamuonien koostumusta
+Kalsiumin muodot
+Lisäravinteissa useita eri muotoja, yleisimmät ovat kalsiumkarbonaatti (kalsiumia noin 40 %) ja kalsiumsitraatti (kalsiumia noin 20 %)
+Luussa kalsium on hydroksiapatiittina (kalsiumia noin 40 %)
+Koiran tarve
+NRC: aikuisille 130 mg/kgME, pennuille alkaen 630 mg/kgME puolen vuoden 315 mg/kgME (beagle)
+NRC:n suositus olettaa kalsiumkarbonaattia ja imeytymiselle 40 % ilman D-vitamiinin synnyttämää aktiivista imeytymistä
+aitoa fysiologista tarvetta ei tiedetä ja se vaihtelee huomattavasti yksilön, rasituksen jne. mukaan
+Puutos
+lihaskramppeja
+lihaksiston tonuksen heikkeneminen
+luuston heikkoutta
+pahimmillaan kehityshäiriöitä pennuilla
+Yliannostus
+ravitsemuksellista yliannostusta ei ole, vaan ongelmat tulevat kalsiumin lähteen ongelmista ruuansulatuksessa, kuten ummetusta
+elimistön kalsiumkertymä on aineenvaihdunnallinen ongelma esimerkiksi D-vitamiinin kanssa, eikä liity kalsiumin annostukseen
+Saanti ruuasta
+Ruuassa ei ole normaalisti käytännössä oleellisia annoksia kalsiumia, ellei siihen ole jauhettu luuta mukaan tai saatu luuta muun prosessin mukana.
+
+Kuivamuonien kalsiummäärä vaihtelee merkeittäin ja on tyypillisesti välillä 1 % .. 1,4 %. Jos valmistaja ei ole ilmoittanut kalsiummäärää, niin 1,2 % on toimiva muistisääntö.
+
+
+ 
+Raakaruokinnassa kalsium on lisättävä tavalla tai toisella. Taulukko esittää muutaman vaihtoehdon 10 kilon koiralle sekä per koiran elopainokilo. Tuotteet ovat esimerkinomaisia. Taulukko ei ota kantaa yhdenkään tuotteen järkevyyteen käytössä, vaan jokaisen on itse mietittävä onko ilmoitettu määrä järkevä koiran ruokinnassa. Ne ovat kuitenkin määriä, jotka on oltava ruokakipossa joka päivä, jos ottaa niistä kalsiumin joka päivä.
+
+Kalsiumlisien annostus
+Kalsiumlisien suurin kysymysmerkki on imeytyminen. Kalsiumkarbonaatille käytetään usein 40 % imeytymistä, joka usein pyöristetään päässälaskun helpottamiseksi 50 prosenttiin – tarpeen täyttämiseksi on annettava kaksinkertainen annos itse tuotetta. Valitettavasti todellisuus on paljon karumpi siltä osin, että aitoa hyödynnettävää ei tiedetä. Koeputkikokeitten perusteella ihmisten ruuansulatusnesteiden happamuudessa sekoittaminen viljaan tipauttaa liukenemisen noin 30 prosenttiin.
+
+Eri kalsiumlähteiden välillä on hieman eroja, mutta ei oleellista. Siksi lisäravinnekalsiumin valinta kannattaa tehdä sen sopivuuden kautta – jos koira närästää jollain, niin käytetään jotain toista.
+
+Koska aitoa imeytymistä ei tiedetä, niin ainoa jollain tavalla elämää helpottava tapa on laskea tarpeelle riittävä määrä ja tuplata se.
+
+Kalsiumlisien annostelu
+ 	määrä	per kg	30 kg + imeytyminen	realistisempi annos
+kalsiumkarbonaatti	40 %	0,15 g	2 tl	1 rkl
+kalsiumsitraatti	20 %	0,3 g	4 tl	1,5 rkl
+luujauho	40 %	0,15 g	2 tl	2 rkl
+Realistinen annos on tulkinta-asia. Itse käytän sitä, koska se eräällä tavalla huomioi mahdollisen ruuasta johtuvan matalamman imeytymisen sekä arjen helppouden. Mahdollinen yliannos ei kuitenkaan ole ongelma, koska se poistuu ulosteiden mukaan. Sitraatin matalampi annostus johtuu sitraatin käyttäytymisestä vatsassa ja sillä pyritään minimoimaan mahdollisia haittoja. Luujauhon korkeampi annos johtuu erävaihteluiden aiheuttamasta epävarmuudesta sekä ylipäätään luun mahdollisesti heikommasta sulavuudesta.
+
+
+
+
+
+
 Kalsium on elimistön yleisin kivennäisaine ja erittäin tärkeä elektrolyytti lihasten ja hermojen toiminnalle samalla kun se on luuston tärkein rakennusaine. Kalsiumin saantia pidetään usein ruokinnassa mineraaleista suurimpana ongelmana, vaikka se itse asiassa on ehkä helpoin. Kalsiumista on kirjoitettu eniten, koska sitä on ”helpoimpana” mineraalina tutkittu eniten. Siksi se on noussut eräällä tavalla ylikorostuneeseen asemaan. Samalla painotukset kalsiumin roolissa ruokinnassa sekä koiran kehitykselle ja terveydelle ovat lähteneet sivupoluille. Oleellista on absoluuttinen saanti, ei mikään muu. Jos raakaruokinnassa käytetään edes hivenen luita, tai ns. koirien jauhelihoja, joihin on jauhettu luuta, niin kalsiumista ei ole käytännössä koskaan puutetta.
 
 
