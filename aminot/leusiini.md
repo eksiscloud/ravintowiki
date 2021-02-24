@@ -5,6 +5,22 @@ joku:
 Leusiinia tarvitaan proteiinien, hormonien ja hemoglobiinin synteesissä sekä veren sokeritasojen säätelyssä. Leusiini vaikuttaa kasvuun sekä erilaisten vammojen paranemiseen: luut, lihakset, haavat.Leusiini on ketogeeninen aminohappo, joka voidaan muuttaa ketoneiksi. Leusiinia on runsaasti eläinperäisessä ravinnossa sekä palkokasveissa, siemenissä, hiivassa ja spirulinassa.Leusiinin vaikutuksesta lihasmassan kasvun edellyttämään proteiinisynteesiin on olemassa jonkin verran näyttöä. (Kolmessa tutkimuksessa ja kahdessa tutkimusten systeemisessä analyysissa proteiinin ja leusiinin syöminen liikuntasuorituksen jälkeen lisäsi lihaksia kasvattavaa proteiinisynteesiä miehillä.
 
 
+
+leusiini, jota tarvitaan 2) signaalimolekyyliksi proteiinisynteesin kiihtymiseen. Tarkemmin ottaen kyseessä on proteiinisynteesin säätelyssä kriittisen vaiheen translaation initiaation aktivointi. 
+
+Välttämättömien aminohappojen kingiä, signaalimolekyylinä toimivaa leusiinia saa kaikkein eniten maidosta eristettävästä herajauheesta, jossa leusiinia on noin 12 g/100 g heraproteiinia. Leusiinia löytyy kohtuullisen isoja määriä myös monista muista ruoista. Vaikka leusiini on harjoituksen jälkeisessä ravinnossa erittäin tärkeä, niin esimerkiksi perusherapalautusjuomassa leusiinia on jo riittävästi. Lisäksi isojen määrien leusiinia tai haaraketjuisia aminohappoja puputtaminen päivittäin on turhaa (lue esim. katsaus: Balage ja Dardevet 2010). 
+
+Balage M, Dardevet D. Long-term effects of leucine supplementation on body composition. Curr Opin Clin Nutr Metab Care. 2010 May;13(3):265-70.
+
+
+
+Leucine (Leu) is a nutritionally essential branched-chain amino acid (BCAA) in animal nutrition. It is usually one of the most abundant amino acids in high-quality protein foods. Leu increases protein synthesis through activation of the mammalian target of rapamycin (mTOR) signaling pathway in skeletal muscle, adipose tissue and placental cells. Leu promotes energy metabolism (glucose uptake, mitochondrial biogenesis, and fatty acid oxidation) to provide energy for protein synthesis, while inhibiting protein degradation. Approximately 80 % of Leu is normally used for protein synthesis, while the remainder is converted to α-ketoisocaproate (α-KIC) and β-hydroxy-β-methylbutyrate (HMB) in skeletal muscle. 
+
+Yehui Duan, Fengna Li, Yinghui Li, Yulong Tang, Xiangfeng Kong, Zemeng Feng, Tracy G. Anthony, Malcolm Watford, Yongqing Hou, Guoyao Wu & Yulong Yin. The role of leucine and its metabolites in protein and energy metabolism. Amino Acids volume 48, pages41–51(2016)
+
+
+
+
 en.wikipedia:
 
 Leucine (symbol Leu or L)[3] is an essential amino acid that is used in the biosynthesis of proteins. Leucine is an α-amino acid, meaning it contains an α-amino group (which is in the protonated −NH3+ form under biological conditions), an α-carboxylic acid group (which is in the deprotonated −COO− form under biological conditions), and a side chain isobutyl group, making it a non-polar aliphatic amino acid. It is essential in humans, meaning the body cannot synthesize it: it must be obtained from the diet. Human dietary sources are foods that contain protein, such as meats, dairy products, soy products, and beans and other legumes. It is encoded by the codons UUA, UUG, CUU, CUC, CUA, and CUG.
