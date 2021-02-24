@@ -69,7 +69,7 @@ Koska leusiinia on huomattavan suuri osuus aminohapoista, niin sille tuskin synt
 |-
 | kananmuna, valkuainen, raaka ||	1,40
 |-
-| kaura |	1,28
+| kaura ||	1,28
 |-
 | linssit, keitetty ||	0,65
 |-
