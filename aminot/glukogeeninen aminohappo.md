@@ -4,7 +4,7 @@ Glukogeenisiksi aminohapoiksi kutsutaan aminohappoja, joiden hajotuksen tuotteen
 
 Näitä aminohappojen hajotuksen tuotteita voidaan käyttää [[Aminohapot ja energia|energiantuotantoon]], niistä voidaan muodostaa maksassa [[glykogeeni]]ä tai [[glukoosi]]a, tai lihaksissa glykogeeniä. 
 
-Loput aminohapoista ovat [[Ketogeeninen aminohappo|ketogeenisiä aminohappoja]]. Osa aminohapoista on sekä keto- että glukogeenisia.
+Aminohapoista [[leusiini]] ja [[lysiini]] ovat [[Ketogeeninen aminohappo|ketogeenisiä aminohappoja]]. Osa aminohapoista on sekä keto- että glukogeenisia.
 
 [[Luokka:Aminohapot]]
 [[Luokka:Energia-aineenvaihdunta]]
