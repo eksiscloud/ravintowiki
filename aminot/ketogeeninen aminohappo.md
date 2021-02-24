@@ -1,6 +1,6 @@
 {{tynkä|syy:Linkitystä varten tehty}}
 
-Ketogeenisiä aminohappoja ovat aminohapot, joiden hajotuksessa muodostuu asetoasetaattia, asetyylikoentsyymi-A:ta tai asetoasetyylikoentsyymi-A:ta. 
+Ketogeenisiä aminohappoja ovat aminohapot, joiden hajotuksessa muodostuu [[ketoaine]]ita asetoasetaattia, asetyylikoentsyymi-A:ta tai asetoasetyylikoentsyymi-A:ta. 
 
 Koska näiden molekyylien hiiliketju ei toimi substraattina [[glukoneogeneesi]]ssä, niistä ei voida muodostaa [[glukoosi]]a tai [[glykogeeni]]ä.
 
