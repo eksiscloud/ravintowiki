@@ -22,7 +22,7 @@ Leusiini on [[ketogeeninen aminohappo]], joten siitä saadaan [[ketoosi]]ssa ket
 
 Ihmisillä noin 80 % leusiinista käytetään proteiinisynteesissä. Loput muutetaan energiaksi.
 
-Leusiinin hapetus lisääntyy liikunnan aikana 3 - 5 kertaiseksi, eli eniten kaikista aminohapoista. Kestävyysharjoittelu lisää lähinnä leusiinin hapettumista lihaksessa. Tämä johtuu siitä, että harjoittelu lisää haaraketjuisten aminohappojen aineenvaihduntaa säätelevän entsyymin aktiivisuutta.
+Leusiinin hapetus lisääntyy liikunnan aikana 3 - 5 kertaiseksi, eli eniten kaikista aminohapoista. Kestävyysharjoittelu lisää lähinnä leusiinin hapettumista lihaksessa. Tämä johtuu siitä, että harjoittelu lisää haaraketjuisten aminohappojen aineenvaihduntaa säätelevän entsyymin aktiivisuutta. Aerobisessa rasituksessa leusiinin määrä voi tipahtaa plasmassa 22 %<ref>Bergström J, Fürst P, and Hultman E (1985). Free amino acids in muscle tissue and plasma during exercise in man. Clin Physiol, 5, 155-160.</ref> sekä vastus lateralis lihaksessa glykogeenivarastojen hiipumisen takia<ref>Blomstrand E, Ek S, and Newsholme EA (1996). Influence of ingesting a solution of branched-chain amino acids on plasma and muscle concentrations of amino acids during prolonged submaximal exercise. Nutrition, 12, 485-490.</ref>.
 
 Agilityssä ja muille sprinttityyppisille koirille leusiinilisästä ei ole välttämättä suoraa hyötyä, sillä leusiinitutkimusten pääpaino on ollut nimenomaan ihmispuolen kestävyysurheilussa. Tosin haaraketjuisena aminohappona sillä on erittäinkin tärkeä rooli lihasten rakentumisessa, varsinkin isoissa lihaksissa.
 
