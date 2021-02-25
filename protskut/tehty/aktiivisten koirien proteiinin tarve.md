@@ -33,6 +33,8 @@ Sanotaan, että kaikki tarvittava saadaan tasapainoisesta ruuasta. Tämä pitä�
 
 Vaihtoehdot ovat vähissä. [[Lisäravinteet|Lisäravinteita]], tässä tapauksessa proteiinia, ei voida välttää.
 
+Urheilumaailmassa ajatellaan usein, että yksittäisten vapaiden aminohappojen nauttiminen olisi tehokkaampaa lihasmassan kannalta verrattuna ravinnon kokonaisiin proteiineihin. Ruuansulatus hidastaisi kuitenkin aminohappojen saantia, joten proteiinilisien käyttö palvelee tavoitteellista fyysistä harrastamista paremmin. Tiedetään myös, että di- ja tripeptidit imeytyvät nopeammin kuin vapaat aminohapot ja peptideillä typen varastointi olisi tehokkaampaa vapaisiin aminohappoihin verrattuna. Peptidien alhaisempi osmolaliteetti (liuenneiden aineiden määrä eli yksinkertaistaen liukoisuus) on myös etu yksittäisiin vapaisiin aminohappoihin verrattuna<ref>Fürst, P. 2001. New developments in glutamine delivery. Journal of Nutrition 131, 2562S-2568S.</ref>. Vapaita aminohappoja sisältävien tuotteisen valmistaminen on kalliimpaa. Suurempi haitta lienee kuitenkin se, että yksittäisten vapaiden aminohappojen nauttiminen aiheuttaa helpommin vatsa- ja suolisto-oireita<ref>Groff, J.L. & Gropper, S.S. 2000. Advanced Nutrition and Human Metabolism p.175.</ref>. Tosin vatsaoireilu lisääntyy helposti muutenkin, jos proteiinilisiä nautitaan isompia määriä. Tuon takia moniin tuotteisiin on lisätty ruuansulatusentsyymejä.
+
 Hyvälaatuinen ja riittävä proteiini siis rakentaa kehoa, pitää veriarvot kuosissa ja vastustuskyvyn terässään. Ja mikä mukavinta - aika usean omistajan ja koiran kannalta - vaikka (tai siis sen takia) ei aktiivisesti liikkuisikaan, niin korkeampi proteiini yhdistettynä pieneen määrään hiilihydraattia auttaa laihtumaan.
 
 == Proteiinien antamisen ajoitus ==
