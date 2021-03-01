@@ -1,13 +1,11 @@
+Lisäravinteita ovat kaikki sellaiset [[elektrolyytit]], [[vitamiinit]], [[mineraalit]] ja muut ravintolisät, kuten esimerkiksi [[aminohapot]] tai [[Antioksidantit|flavonoidit]], joita annetaan normaalin ruokinnan lisäksi. Hieman hölmönä yleistyksenä voidaan sanoa, että kaikki sellainen, jotka löytyvät normaaliravinnosta, mutta jonka määrää lisätään purkista annostelemalla, ovat lisäravinteita.
+
+Aidosti jako lisäravinteisiin tai ravintolisiin on keinotekoisempi ja markkinavetoinen, kuin aito jako. Ihmisillä aivan kaikki lisät ovat ravintolisiä ja eläimillä ne ovat aina rehulisiä. Se, mikä termi on toimivin tai kuvaavin, riippuu asiayhteydestä. Halutaanko painottaa yhtä ravintoainetta, yhdistelmätuotetta tai ruoka-ainetta, vai ollaanko juridisemmalla asenteella liikkeellä.
 
 
+== Tarve lisäravinteisiin ==
 
-## Lisäravinteista yleisesti ##
-
-Lisäravinteita ovat kaikki sellaiset elektrolyytit, vitamiinit, kalsium, rauta ja muut ravintolisät, kuten esimerkiksi aminohapot tai flavonoidit, joita annetaan normaalin ruokinnan lisäksi. Hieman hölmönä yleistyksenä voidaan sanoa, että kaikki sellainen, jotka löytyvät normaaliravinnosta, mutta jonka määrää lisätään purkista annostelemalla, ovat lisäravinteita.
-
-Miksi niitä annetaan?
-
-Lisäravinteilla paikataan ruokinnan puutteita. Tämä puute ei läheskään aina johdu huonolaatuisesta ruuasta, vaan koiran, erityistarpeista. Kilpakoirilla treenaus ja kilpaileminen, sekä kummankin aiheuttama stressi, kuluttavat elimistön puskurivarastoja - usein nopeammin kuin mitä ravinnosta saadaan tilalle.
+Lisäravinteilla paikataan ruokinnan vajauksia, joko aitoja ravitsemuksellisia puutteita tai funktionaalisempia toiveita terveyden tai suorituskyvyn suhteen. Tämä puute ei läheskään aina johdu huonolaatuisesta ruuasta, vaan koiran, erityistarpeista. Kilpakoirilla treenaus ja kilpaileminen, sekä kummankin aiheuttama stressi, kuluttavat elimistön puskurivarastoja - usein nopeammin kuin mitä ravinnosta saadaan tilalle.
 
 Lisäksi jo pelkästään parempi suorituskyky voi vaatia lisäravinteita: korkeampi hemoglobiini kuljettaa lihaksille enemmän happea, ja veriarvot saadaan nopeimmin nousemaan rautalisällä. Lisäravinteilla saadaan myös korjattua häiriötiloja. Ylirasitustiloihin, ja nimenomaan niiden ennaltaehkäisemiseen, tarvitaan elektrolyyttilisää.
 
